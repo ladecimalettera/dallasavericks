@@ -1,0 +1,4899 @@
+{
+ "generated_utc": "2026-11-04T16:38+00:00",
+ "nba_date": "20261103",
+ "errors": [],
+ "teams": [
+  {
+   "name": "Seattle  Ravens",
+   "record": "0-2",
+   "acquisitions": 2,
+   "roster": [
+    {
+     "id": 4432166,
+     "name": "Cade Cunningham",
+     "pos": "PG",
+     "nba_team": "DET",
+     "slots": [
+      "PG"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "PG",
+     "avg_fp_espn": 47.64,
+     "avg_last7": 52.83,
+     "avg_last15": 47.64,
+     "gp_proxy_total": 333.5
+    },
+    {
+     "id": 4433134,
+     "name": "Scottie Barnes",
+     "pos": "SF",
+     "nba_team": "TOR",
+     "slots": [
+      "SG",
+      "SF"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "SG",
+     "avg_fp_espn": 48.21,
+     "avg_last7": 57.12,
+     "avg_last15": 48.21,
+     "gp_proxy_total": 337.5
+    },
+    {
+     "id": 4432158,
+     "name": "Evan Mobley",
+     "pos": "PF",
+     "nba_team": "CLE",
+     "slots": [
+      "PF",
+      "C"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "PF",
+     "avg_fp_espn": 44.14,
+     "avg_last7": 42.88,
+     "avg_last15": 44.14,
+     "gp_proxy_total": 309.0
+    },
+    {
+     "id": 4432573,
+     "name": "Paolo Banchero",
+     "pos": "PF",
+     "nba_team": "ORL",
+     "slots": [
+      "SF",
+      "PF"
+     ],
+     "injury": "OUT",
+     "lineup_slot": "IR",
+     "avg_fp_espn": 45.75,
+     "avg_last7": 0,
+     "avg_last15": 45.75,
+     "gp_proxy_total": 91.5
+    },
+    {
+     "id": 4566434,
+     "name": "Franz Wagner",
+     "pos": "SF",
+     "nba_team": "ORL",
+     "slots": [
+      "SF",
+      "PF"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "BE",
+     "avg_fp_espn": 34.86,
+     "avg_last7": 34.88,
+     "avg_last15": 34.86,
+     "gp_proxy_total": 244.0
+    },
+    {
+     "id": 4066336,
+     "name": "Lauri Markkanen",
+     "pos": "PF",
+     "nba_team": "UTA",
+     "slots": [
+      "SF",
+      "PF"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "F",
+     "avg_fp_espn": 29.92,
+     "avg_last7": 37.25,
+     "avg_last15": 29.92,
+     "gp_proxy_total": 179.5
+    },
+    {
+     "id": 4277961,
+     "name": "Jaren Jackson Jr.",
+     "pos": "C",
+     "nba_team": "UTA",
+     "slots": [
+      "PF",
+      "C"
+     ],
+     "injury": "OUT",
+     "lineup_slot": "IR",
+     "avg_fp_espn": 26.75,
+     "avg_last7": 0,
+     "avg_last15": 26.75,
+     "gp_proxy_total": 107.0
+    },
+    {
+     "id": 4711294,
+     "name": "Matas Buzelis",
+     "pos": "SF",
+     "nba_team": "CHI",
+     "slots": [
+      "SF",
+      "PF"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "BE",
+     "avg_fp_espn": 19.5,
+     "avg_last7": 18.0,
+     "avg_last15": 19.5,
+     "gp_proxy_total": 136.5
+    },
+    {
+     "id": 4600663,
+     "name": "Zach Edey",
+     "pos": "C",
+     "nba_team": "MEM",
+     "slots": [
+      "C"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "UT",
+     "avg_fp_espn": 25.17,
+     "avg_last7": 22.33,
+     "avg_last15": 25.17,
+     "gp_proxy_total": 151.0
+    },
+    {
+     "id": 4395625,
+     "name": "RJ Barrett",
+     "pos": "SF",
+     "nba_team": "TOR",
+     "slots": [
+      "SG",
+      "SF"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "UT",
+     "avg_fp_espn": 38.5,
+     "avg_last7": 39.75,
+     "avg_last15": 38.5,
+     "gp_proxy_total": 269.5
+    },
+    {
+     "id": 4395724,
+     "name": "Immanuel Quickley",
+     "pos": "PG",
+     "nba_team": "TOR",
+     "slots": [
+      "PG",
+      "SG"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "G",
+     "avg_fp_espn": 35.71,
+     "avg_last7": 37.25,
+     "avg_last15": 35.71,
+     "gp_proxy_total": 250.0
+    },
+    {
+     "id": 4432194,
+     "name": "Day'Ron Sharpe",
+     "pos": "C",
+     "nba_team": "BKN",
+     "slots": [
+      "C"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "BE",
+     "avg_fp_espn": 22.43,
+     "avg_last7": 26.0,
+     "avg_last15": 22.43,
+     "gp_proxy_total": 157.0
+    },
+    {
+     "id": 4395712,
+     "name": "Andrew Nembhard",
+     "pos": "PG",
+     "nba_team": "IND",
+     "slots": [
+      "PG",
+      "SG"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "BE",
+     "avg_fp_espn": 33.92,
+     "avg_last7": 36.5,
+     "avg_last15": 33.92,
+     "gp_proxy_total": 203.5
+    },
+    {
+     "id": 5112087,
+     "name": "Jaylen Wells",
+     "pos": "SF",
+     "nba_team": "MEM",
+     "slots": [
+      "SG",
+      "SF"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "BE",
+     "avg_fp_espn": 26.79,
+     "avg_last7": 17.83,
+     "avg_last15": 26.79,
+     "gp_proxy_total": 187.5
+    },
+    {
+     "id": 4592479,
+     "name": "Julian Champagnie",
+     "pos": "SF",
+     "nba_team": "SAS",
+     "slots": [
+      "SF",
+      "PF"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "BE",
+     "avg_fp_espn": 27.29,
+     "avg_last7": 17.5,
+     "avg_last15": 27.29,
+     "gp_proxy_total": 191.0
+    }
+   ]
+  },
+  {
+   "name": "Roma Caput Mundi",
+   "record": "1-1",
+   "acquisitions": 6,
+   "roster": [
+    {
+     "id": 4278073,
+     "name": "Shai Gilgeous-Alexander",
+     "pos": "PG",
+     "nba_team": "OKC",
+     "slots": [
+      "PG"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "PG",
+     "avg_fp_espn": 47.36,
+     "avg_last7": 46.5,
+     "avg_last15": 47.36,
+     "gp_proxy_total": 331.5
+    },
+    {
+     "id": 4431678,
+     "name": "Tyrese Maxey",
+     "pos": "PG",
+     "nba_team": "PHL",
+     "slots": [
+      "PG",
+      "SG"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "SG",
+     "avg_fp_espn": 51.19,
+     "avg_last7": 51.25,
+     "avg_last15": 51.19,
+     "gp_proxy_total": 409.5
+    },
+    {
+     "id": 6450,
+     "name": "Kawhi Leonard",
+     "pos": "SF",
+     "nba_team": "TOR",
+     "slots": [
+      "SF",
+      "PF"
+     ],
+     "injury": "OUT",
+     "lineup_slot": "IR",
+     "avg_fp_espn": 41.25,
+     "avg_last7": 0,
+     "avg_last15": 41.25,
+     "gp_proxy_total": 82.5
+    },
+    {
+     "id": 1966,
+     "name": "LeBron James",
+     "pos": "SF",
+     "nba_team": "PHL",
+     "slots": [
+      "SF",
+      "PF"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "PF",
+     "avg_fp_espn": 40.92,
+     "avg_last7": 45.5,
+     "avg_last15": 40.92,
+     "gp_proxy_total": 245.5
+    },
+    {
+     "id": 4433255,
+     "name": "Chet Holmgren",
+     "pos": "C",
+     "nba_team": "OKC",
+     "slots": [
+      "PF",
+      "C"
+     ],
+     "injury": "OUT",
+     "lineup_slot": "UT",
+     "avg_fp_espn": 41.33,
+     "avg_last7": 0,
+     "avg_last15": 41.33,
+     "gp_proxy_total": 124.0
+    },
+    {
+     "id": 4066320,
+     "name": "Desmond Bane",
+     "pos": "SG",
+     "nba_team": "ORL",
+     "slots": [
+      "SG",
+      "SF"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "BE",
+     "avg_fp_espn": 29.57,
+     "avg_last7": 35.75,
+     "avg_last15": 29.57,
+     "gp_proxy_total": 207.0
+    },
+    {
+     "id": 4433136,
+     "name": "Walker Kessler",
+     "pos": "C",
+     "nba_team": "LAL",
+     "slots": [
+      "C"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "C",
+     "avg_fp_espn": 45.69,
+     "avg_last7": 48.0,
+     "avg_last15": 45.69,
+     "gp_proxy_total": 365.5
+    },
+    {
+     "id": 4431671,
+     "name": "Jaden McDaniels",
+     "pos": "SF",
+     "nba_team": "MIN",
+     "slots": [
+      "SF",
+      "PF"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "SF",
+     "avg_fp_espn": 36.62,
+     "avg_last7": 35.88,
+     "avg_last15": 36.62,
+     "gp_proxy_total": 293.0
+    },
+    {
+     "id": 4431736,
+     "name": "Toumani Camara",
+     "pos": "PF",
+     "nba_team": "POR",
+     "slots": [
+      "SF",
+      "PF"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "UT",
+     "avg_fp_espn": 27.92,
+     "avg_last7": 23.67,
+     "avg_last15": 27.92,
+     "gp_proxy_total": 167.5
+    },
+    {
+     "id": 5061589,
+     "name": "Yves Missi",
+     "pos": "C",
+     "nba_team": "NOP",
+     "slots": [
+      "C"
+     ],
+     "injury": "OUT",
+     "lineup_slot": "IR",
+     "avg_fp_espn": 42.0,
+     "avg_last7": 0,
+     "avg_last15": 42.0,
+     "gp_proxy_total": 84.0
+    },
+    {
+     "id": 5104155,
+     "name": "Bilal Coulibaly",
+     "pos": "SF",
+     "nba_team": "WAS",
+     "slots": [
+      "SG",
+      "SF"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "BE",
+     "avg_fp_espn": 24.29,
+     "avg_last7": 27.17,
+     "avg_last15": 24.29,
+     "gp_proxy_total": 170.0
+    },
+    {
+     "id": 4278594,
+     "name": "Naji Marshall",
+     "pos": "SF",
+     "nba_team": "DAL",
+     "slots": [
+      "SF",
+      "PF"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "F",
+     "avg_fp_espn": 28.5,
+     "avg_last7": 19.0,
+     "avg_last15": 28.5,
+     "gp_proxy_total": 114.0
+    },
+    {
+     "id": 3059319,
+     "name": "Andrew Wiggins",
+     "pos": "SF",
+     "nba_team": "MIA",
+     "slots": [
+      "SF",
+      "PF"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "BE",
+     "avg_fp_espn": 20.5,
+     "avg_last7": 24.5,
+     "avg_last15": 20.5,
+     "gp_proxy_total": 143.5
+    },
+    {
+     "id": 2991139,
+     "name": "Kris Dunn",
+     "pos": "PG",
+     "nba_team": "LAC",
+     "slots": [
+      "PG",
+      "SG"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "UT",
+     "avg_fp_espn": 34.21,
+     "avg_last7": 28.12,
+     "avg_last15": 34.21,
+     "gp_proxy_total": 239.5
+    },
+    {
+     "id": 4397002,
+     "name": "Ayo Dosunmu",
+     "pos": "SG",
+     "nba_team": "MIN",
+     "slots": [
+      "PG",
+      "SG"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "G",
+     "avg_fp_espn": 36.25,
+     "avg_last7": 46.88,
+     "avg_last15": 36.25,
+     "gp_proxy_total": 290.0
+    }
+   ]
+  },
+  {
+   "name": "Dallas Savericks",
+   "record": "1-1",
+   "acquisitions": 2,
+   "roster": [
+    {
+     "id": 4871144,
+     "name": "Alperen Sengun",
+     "pos": "C",
+     "nba_team": "HOU",
+     "slots": [
+      "C"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "C",
+     "avg_fp_espn": 57.17,
+     "avg_last7": 61.25,
+     "avg_last15": 57.17,
+     "gp_proxy_total": 343.0
+    },
+    {
+     "id": 3155942,
+     "name": "Domantas Sabonis",
+     "pos": "C",
+     "nba_team": "SAC",
+     "slots": [
+      "PF",
+      "C"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "PF",
+     "avg_fp_espn": 51.5,
+     "avg_last7": 39.33,
+     "avg_last15": 51.5,
+     "gp_proxy_total": 360.5
+    },
+    {
+     "id": 3936299,
+     "name": "Jamal Murray",
+     "pos": "PG",
+     "nba_team": "DEN",
+     "slots": [
+      "PG"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "PG",
+     "avg_fp_espn": 50.67,
+     "avg_last7": 58.0,
+     "avg_last15": 50.67,
+     "gp_proxy_total": 304.0
+    },
+    {
+     "id": 4869342,
+     "name": "Dyson Daniels",
+     "pos": "SG",
+     "nba_team": "ATL",
+     "slots": [
+      "PG",
+      "SG"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "SG",
+     "avg_fp_espn": 38.0,
+     "avg_last7": 32.75,
+     "avg_last15": 38.0,
+     "gp_proxy_total": 304.0
+    },
+    {
+     "id": 4395628,
+     "name": "Zion Williamson",
+     "pos": "PF",
+     "nba_team": "NOP",
+     "slots": [
+      "PF",
+      "C"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "F",
+     "avg_fp_espn": 45.0,
+     "avg_last7": 49.38,
+     "avg_last15": 45.0,
+     "gp_proxy_total": 315.0
+    },
+    {
+     "id": 5105565,
+     "name": "Donovan Clingan",
+     "pos": "C",
+     "nba_team": "POR",
+     "slots": [
+      "C"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "UT",
+     "avg_fp_espn": 38.58,
+     "avg_last7": 45.83,
+     "avg_last15": 38.58,
+     "gp_proxy_total": 231.5
+    },
+    {
+     "id": 4278104,
+     "name": "Michael Porter Jr.",
+     "pos": "SF",
+     "nba_team": "BKN",
+     "slots": [
+      "SF",
+      "PF"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "UT",
+     "avg_fp_espn": 37.5,
+     "avg_last7": 31.83,
+     "avg_last15": 37.5,
+     "gp_proxy_total": 262.5
+    },
+    {
+     "id": 5105623,
+     "name": "Kel'el Ware",
+     "pos": "C",
+     "nba_team": "MIL",
+     "slots": [
+      "C"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "BE",
+     "avg_fp_espn": 28.0,
+     "avg_last7": 25.0,
+     "avg_last15": 28.0,
+     "gp_proxy_total": 196.0
+    },
+    {
+     "id": 4065733,
+     "name": "Ty Jerome",
+     "pos": "SG",
+     "nba_team": "MEM",
+     "slots": [
+      "PG",
+      "SG"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "G",
+     "avg_fp_espn": 46.92,
+     "avg_last7": 40.0,
+     "avg_last15": 46.92,
+     "gp_proxy_total": 281.5
+    },
+    {
+     "id": 4432848,
+     "name": "Jaime Jaquez Jr.",
+     "pos": "SF",
+     "nba_team": "MIL",
+     "slots": [
+      "SG",
+      "SF"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "SF",
+     "avg_fp_espn": 30.43,
+     "avg_last7": 30.33,
+     "avg_last15": 30.43,
+     "gp_proxy_total": 213.0
+    },
+    {
+     "id": 3064290,
+     "name": "Aaron Gordon",
+     "pos": "PF",
+     "nba_team": "DEN",
+     "slots": [
+      "PF"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "BE",
+     "avg_fp_espn": 25.92,
+     "avg_last7": 26.5,
+     "avg_last15": 25.92,
+     "gp_proxy_total": 155.5
+    },
+    {
+     "id": 6430,
+     "name": "Jimmy Butler III",
+     "pos": "SF",
+     "nba_team": "GSW",
+     "slots": [
+      "SG",
+      "SF"
+     ],
+     "injury": "OUT",
+     "lineup_slot": "IR",
+     "avg_fp_espn": 0.0,
+     "avg_last7": 0.0,
+     "avg_last15": 0.0,
+     "gp_proxy_total": 0.0
+    },
+    {
+     "id": 4900671,
+     "name": "Ajay Mitchell",
+     "pos": "PG",
+     "nba_team": "OKC",
+     "slots": [
+      "PG",
+      "SG"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "UT",
+     "avg_fp_espn": 34.43,
+     "avg_last7": 34.33,
+     "avg_last15": 34.43,
+     "gp_proxy_total": 241.0
+    },
+    {
+     "id": 5144091,
+     "name": "Jeremiah Fears",
+     "pos": "SG",
+     "nba_team": "NOP",
+     "slots": [
+      "PG",
+      "SG"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "BE",
+     "avg_fp_espn": 27.0,
+     "avg_last7": 39.62,
+     "avg_last15": 27.0,
+     "gp_proxy_total": 189.0
+    }
+   ]
+  },
+  {
+   "name": "The Starters",
+   "record": "1-1",
+   "acquisitions": 5,
+   "roster": [
+    {
+     "id": 4594268,
+     "name": "Anthony Edwards",
+     "pos": "SG",
+     "nba_team": "MIN",
+     "slots": [
+      "SG",
+      "SF"
+     ],
+     "injury": "OUT",
+     "lineup_slot": "IR",
+     "avg_fp_espn": 52.0,
+     "avg_last7": 0,
+     "avg_last15": 52.0,
+     "gp_proxy_total": 208.0
+    },
+    {
+     "id": 5041939,
+     "name": "Cooper Flagg",
+     "pos": "SF",
+     "nba_team": "DAL",
+     "slots": [
+      "SF",
+      "PF"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "F",
+     "avg_fp_espn": 50.92,
+     "avg_last7": 42.5,
+     "avg_last15": 50.92,
+     "gp_proxy_total": 305.5
+    },
+    {
+     "id": 4066261,
+     "name": "Bam Adebayo",
+     "pos": "C",
+     "nba_team": "MIA",
+     "slots": [
+      "PF",
+      "C"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "UT",
+     "avg_fp_espn": 42.36,
+     "avg_last7": 54.0,
+     "avg_last15": 42.36,
+     "gp_proxy_total": 296.5
+    },
+    {
+     "id": 4066457,
+     "name": "Austin Reaves",
+     "pos": "SG",
+     "nba_team": "LAL",
+     "slots": [
+      "PG",
+      "SG"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "PG",
+     "avg_fp_espn": 37.25,
+     "avg_last7": 24.75,
+     "avg_last15": 37.25,
+     "gp_proxy_total": 298.0
+    },
+    {
+     "id": 4431680,
+     "name": "Onyeka Okongwu",
+     "pos": "C",
+     "nba_team": "ATL",
+     "slots": [
+      "C"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "C",
+     "avg_fp_espn": 31.75,
+     "avg_last7": 37.0,
+     "avg_last15": 31.75,
+     "gp_proxy_total": 254.0
+    },
+    {
+     "id": 4433287,
+     "name": "Brandon Miller",
+     "pos": "SF",
+     "nba_team": "CHA",
+     "slots": [
+      "SG",
+      "SF"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "G",
+     "avg_fp_espn": 36.69,
+     "avg_last7": 39.25,
+     "avg_last15": 36.69,
+     "gp_proxy_total": 293.5
+    },
+    {
+     "id": 3934719,
+     "name": "OG Anunoby",
+     "pos": "SF",
+     "nba_team": "NYK",
+     "slots": [
+      "SF",
+      "PF"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "SF",
+     "avg_fp_espn": 29.57,
+     "avg_last7": 27.5,
+     "avg_last15": 29.57,
+     "gp_proxy_total": 207.0
+    },
+    {
+     "id": 4433627,
+     "name": "Keyonte George",
+     "pos": "PG",
+     "nba_team": "UTA",
+     "slots": [
+      "PG",
+      "SG"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "SG",
+     "avg_fp_espn": 29.07,
+     "avg_last7": 15.5,
+     "avg_last15": 29.07,
+     "gp_proxy_total": 203.5
+    },
+    {
+     "id": 4684742,
+     "name": "Ausar Thompson",
+     "pos": "SF",
+     "nba_team": "DET",
+     "slots": [
+      "SF",
+      "PF"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "PF",
+     "avg_fp_espn": 30.5,
+     "avg_last7": 35.0,
+     "avg_last15": 30.5,
+     "gp_proxy_total": 183.0
+    },
+    {
+     "id": 4395651,
+     "name": "Coby White",
+     "pos": "PG",
+     "nba_team": "CHA",
+     "slots": [
+      "PG",
+      "SG"
+     ],
+     "injury": "DAY_TO_DAY",
+     "lineup_slot": "IR",
+     "avg_fp_espn": 5.0,
+     "avg_last7": 5.0,
+     "avg_last15": 5.0,
+     "gp_proxy_total": 5.0
+    },
+    {
+     "id": 2490149,
+     "name": "CJ McCollum",
+     "pos": "SG",
+     "nba_team": "ATL",
+     "slots": [
+      "PG",
+      "SG"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "UT",
+     "avg_fp_espn": 27.31,
+     "avg_last7": 25.75,
+     "avg_last15": 27.31,
+     "gp_proxy_total": 218.5
+    },
+    {
+     "id": 4873138,
+     "name": "Ace Bailey",
+     "pos": "SF",
+     "nba_team": "UTA",
+     "slots": [
+      "SF",
+      "PF"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "BE",
+     "avg_fp_espn": 32.57,
+     "avg_last7": 24.17,
+     "avg_last15": 32.57,
+     "gp_proxy_total": 228.0
+    },
+    {
+     "id": 5174563,
+     "name": "Kyshawn George",
+     "pos": "SG",
+     "nba_team": "WAS",
+     "slots": [
+      "SG",
+      "SF"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "UT",
+     "avg_fp_espn": 32.0,
+     "avg_last7": 35.0,
+     "avg_last15": 32.0,
+     "gp_proxy_total": 224.0
+    },
+    {
+     "id": 4278562,
+     "name": "Paul Reed",
+     "pos": "C",
+     "nba_team": "DET",
+     "slots": [
+      "PF",
+      "C"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "BE",
+     "avg_fp_espn": 35.07,
+     "avg_last7": 33.33,
+     "avg_last15": 35.07,
+     "gp_proxy_total": 245.5
+    },
+    {
+     "id": 4397014,
+     "name": "Quentin Grimes",
+     "pos": "SG",
+     "nba_team": "LAL",
+     "slots": [
+      "SG",
+      "SF"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "BE",
+     "avg_fp_espn": 18.38,
+     "avg_last7": 19.38,
+     "avg_last15": 18.38,
+     "gp_proxy_total": 147.0
+    }
+   ]
+  },
+  {
+   "name": "Garosc Buzzer Beaters",
+   "record": "1-1",
+   "acquisitions": 7,
+   "roster": [
+    {
+     "id": 3032977,
+     "name": "Giannis Antetokounmpo",
+     "pos": "PF",
+     "nba_team": "MIA",
+     "slots": [
+      "PF",
+      "C"
+     ],
+     "injury": "DAY_TO_DAY",
+     "lineup_slot": "PF",
+     "avg_fp_espn": 60.64,
+     "avg_last7": 70.0,
+     "avg_last15": 60.64,
+     "gp_proxy_total": 424.5
+    },
+    {
+     "id": 4396993,
+     "name": "Tyrese Haliburton",
+     "pos": "PG",
+     "nba_team": "IND",
+     "slots": [
+      "PG",
+      "SG"
+     ],
+     "injury": "OUT",
+     "lineup_slot": "IR",
+     "avg_fp_espn": 52.0,
+     "avg_last7": 0,
+     "avg_last15": 52.0,
+     "gp_proxy_total": 208.0
+    },
+    {
+     "id": 3136193,
+     "name": "Devin Booker",
+     "pos": "PG",
+     "nba_team": "PHO",
+     "slots": [
+      "PG",
+      "SG"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "SG",
+     "avg_fp_espn": 37.7,
+     "avg_last7": 32.0,
+     "avg_last15": 37.7,
+     "gp_proxy_total": 188.5
+    },
+    {
+     "id": 3917376,
+     "name": "Jaylen Brown",
+     "pos": "SF",
+     "nba_team": "PHL",
+     "slots": [
+      "SG",
+      "SF"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "SF",
+     "avg_fp_espn": 39.86,
+     "avg_last7": 43.0,
+     "avg_last15": 39.86,
+     "gp_proxy_total": 279.0
+    },
+    {
+     "id": 6442,
+     "name": "Kyrie Irving",
+     "pos": "PG",
+     "nba_team": "DAL",
+     "slots": [
+      "PG"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "PG",
+     "avg_fp_espn": 42.7,
+     "avg_last7": 52.25,
+     "avg_last15": 42.7,
+     "gp_proxy_total": 213.5
+    },
+    {
+     "id": 4066328,
+     "name": "Jarrett Allen",
+     "pos": "C",
+     "nba_team": "CLE",
+     "slots": [
+      "C"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "UT",
+     "avg_fp_espn": 39.79,
+     "avg_last7": 41.38,
+     "avg_last15": 39.79,
+     "gp_proxy_total": 278.5
+    },
+    {
+     "id": 3059318,
+     "name": "Joel Embiid",
+     "pos": "C",
+     "nba_team": "PHL",
+     "slots": [
+      "C"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "C",
+     "avg_fp_espn": 37.5,
+     "avg_last7": 28.33,
+     "avg_last15": 37.5,
+     "gp_proxy_total": 225.0
+    },
+    {
+     "id": 3978,
+     "name": "DeMar DeRozan",
+     "pos": "SF",
+     "nba_team": "DEN",
+     "slots": [
+      "SF",
+      "PF"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "BE",
+     "avg_fp_espn": 18.67,
+     "avg_last7": 15.83,
+     "avg_last15": 18.67,
+     "gp_proxy_total": 112.0
+    },
+    {
+     "id": 3062679,
+     "name": "Josh Hart",
+     "pos": "SF",
+     "nba_team": "NYK",
+     "slots": [
+      "SG",
+      "SF"
+     ],
+     "injury": "DAY_TO_DAY",
+     "lineup_slot": "UT",
+     "avg_fp_espn": 30.71,
+     "avg_last7": 24.17,
+     "avg_last15": 30.71,
+     "gp_proxy_total": 215.0
+    },
+    {
+     "id": 4437244,
+     "name": "Jalen Green",
+     "pos": "SG",
+     "nba_team": "PHO",
+     "slots": [
+      "SG",
+      "SF"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "BE",
+     "avg_fp_espn": 21.6,
+     "avg_last7": 19.25,
+     "avg_last15": 21.6,
+     "gp_proxy_total": 108.0
+    },
+    {
+     "id": 3102531,
+     "name": "Kristaps Porzingis",
+     "pos": "C",
+     "nba_team": "GSW",
+     "slots": [
+      "PF",
+      "C"
+     ],
+     "injury": "OUT",
+     "lineup_slot": "IR",
+     "avg_fp_espn": 0.0,
+     "avg_last7": 0.0,
+     "avg_last15": 0.0,
+     "gp_proxy_total": 0.0
+    },
+    {
+     "id": 4433249,
+     "name": "Moussa Diabate",
+     "pos": "PF",
+     "nba_team": "CHA",
+     "slots": [
+      "PF",
+      "C"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "F",
+     "avg_fp_espn": 39.56,
+     "avg_last7": 37.12,
+     "avg_last15": 39.56,
+     "gp_proxy_total": 316.5
+    },
+    {
+     "id": 4397189,
+     "name": "Jalen Smith",
+     "pos": "PF",
+     "nba_team": "CHI",
+     "slots": [
+      "PF",
+      "C"
+     ],
+     "injury": "DAY_TO_DAY",
+     "lineup_slot": "UT",
+     "avg_fp_espn": 32.57,
+     "avg_last7": 38.0,
+     "avg_last15": 32.57,
+     "gp_proxy_total": 228.0
+    },
+    {
+     "id": 3995,
+     "name": "Jrue Holiday",
+     "pos": "PG",
+     "nba_team": "POR",
+     "slots": [
+      "PG",
+      "SG"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "G",
+     "avg_fp_espn": 34.25,
+     "avg_last7": 36.17,
+     "avg_last15": 34.25,
+     "gp_proxy_total": 205.5
+    },
+    {
+     "id": 5211175,
+     "name": "Zaccharie Risacher",
+     "pos": "SF",
+     "nba_team": "DAL",
+     "slots": [
+      "SF"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "BE",
+     "avg_fp_espn": 29.29,
+     "avg_last7": 28.33,
+     "avg_last15": 29.29,
+     "gp_proxy_total": 205.0
+    }
+   ]
+  },
+  {
+   "name": "Westabro",
+   "record": "0-2",
+   "acquisitions": 1,
+   "roster": [
+    {
+     "id": 4701230,
+     "name": "Jalen Johnson",
+     "pos": "PF",
+     "nba_team": "ATL",
+     "slots": [
+      "PF"
+     ],
+     "injury": "DAY_TO_DAY",
+     "lineup_slot": "PF",
+     "avg_fp_espn": 42.36,
+     "avg_last7": 31.5,
+     "avg_last15": 42.36,
+     "gp_proxy_total": 296.5
+    },
+    {
+     "id": 3934672,
+     "name": "Jalen Brunson",
+     "pos": "PG",
+     "nba_team": "NYK",
+     "slots": [
+      "PG"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "PG",
+     "avg_fp_espn": 35.71,
+     "avg_last7": 45.17,
+     "avg_last15": 35.71,
+     "gp_proxy_total": 250.0
+    },
+    {
+     "id": 4433621,
+     "name": "Jalen Duren",
+     "pos": "C",
+     "nba_team": "DET",
+     "slots": [
+      "C"
+     ],
+     "injury": "OUT",
+     "lineup_slot": "IR",
+     "avg_fp_espn": 34.5,
+     "avg_last7": 0,
+     "avg_last15": 34.5,
+     "gp_proxy_total": 69.0
+    },
+    {
+     "id": 3992,
+     "name": "James Harden",
+     "pos": "PG",
+     "nba_team": "CLE",
+     "slots": [
+      "PG",
+      "SG"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "SG",
+     "avg_fp_espn": 31.43,
+     "avg_last7": 31.62,
+     "avg_last15": 31.43,
+     "gp_proxy_total": 220.0
+    },
+    {
+     "id": 3147657,
+     "name": "Mikal Bridges",
+     "pos": "SF",
+     "nba_team": "NYK",
+     "slots": [
+      "SG",
+      "SF"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "BE",
+     "avg_fp_espn": 15.36,
+     "avg_last7": 16.67,
+     "avg_last15": 15.36,
+     "gp_proxy_total": 107.5
+    },
+    {
+     "id": 4278039,
+     "name": "Nickeil Alexander-Walker",
+     "pos": "SG",
+     "nba_team": "ATL",
+     "slots": [
+      "PG",
+      "SG"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "G",
+     "avg_fp_espn": 36.69,
+     "avg_last7": 37.12,
+     "avg_last15": 36.69,
+     "gp_proxy_total": 293.5
+    },
+    {
+     "id": 5142718,
+     "name": "AJ Dybantsa",
+     "pos": "SF",
+     "nba_team": "WAS",
+     "slots": [
+      "SF"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "BE",
+     "avg_fp_espn": 31.17,
+     "avg_last7": 31.17,
+     "avg_last15": 31.17,
+     "gp_proxy_total": 93.5
+    },
+    {
+     "id": 4397688,
+     "name": "Trey Murphy III",
+     "pos": "SF",
+     "nba_team": "NOP",
+     "slots": [
+      "SG",
+      "SF"
+     ],
+     "injury": "DAY_TO_DAY",
+     "lineup_slot": "UT",
+     "avg_fp_espn": 29.29,
+     "avg_last7": 29.75,
+     "avg_last15": 29.29,
+     "gp_proxy_total": 205.0
+    },
+    {
+     "id": 4869780,
+     "name": "Derik Queen",
+     "pos": "C",
+     "nba_team": "NOP",
+     "slots": [
+      "PF",
+      "C"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "BE",
+     "avg_fp_espn": 29.57,
+     "avg_last7": 27.0,
+     "avg_last15": 29.57,
+     "gp_proxy_total": 207.0
+    },
+    {
+     "id": 4709138,
+     "name": "Brandin Podziemski",
+     "pos": "SG",
+     "nba_team": "GSW",
+     "slots": [
+      "PG",
+      "SG"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "UT",
+     "avg_fp_espn": 37.17,
+     "avg_last7": 35.5,
+     "avg_last15": 37.17,
+     "gp_proxy_total": 223.0
+    },
+    {
+     "id": 4432639,
+     "name": "Jabari Smith Jr.",
+     "pos": "PF",
+     "nba_team": "HOU",
+     "slots": [
+      "PF",
+      "C"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "C",
+     "avg_fp_espn": 38.19,
+     "avg_last7": 36.62,
+     "avg_last15": 38.19,
+     "gp_proxy_total": 305.5
+    },
+    {
+     "id": 5142620,
+     "name": "Darius Acuff Jr.",
+     "pos": "PG",
+     "nba_team": "SAC",
+     "slots": [
+      "PG"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "UT",
+     "avg_fp_espn": 36.57,
+     "avg_last7": 50.5,
+     "avg_last15": 36.57,
+     "gp_proxy_total": 256.0
+    },
+    {
+     "id": 4066648,
+     "name": "Rui Hachimura",
+     "pos": "PF",
+     "nba_team": "LAC",
+     "slots": [
+      "SF",
+      "PF"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "BE",
+     "avg_fp_espn": 20.1,
+     "avg_last7": 28.5,
+     "avg_last15": 20.1,
+     "gp_proxy_total": 100.5
+    },
+    {
+     "id": 4397077,
+     "name": "Jaxson Hayes",
+     "pos": "C",
+     "nba_team": "UTA",
+     "slots": [
+      "C"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "BE",
+     "avg_fp_espn": 32.17,
+     "avg_last7": 27.83,
+     "avg_last15": 32.17,
+     "gp_proxy_total": 193.0
+    }
+   ]
+  },
+  {
+   "name": "BIBI DELI ",
+   "record": "1-1",
+   "acquisitions": 3,
+   "roster": [
+    {
+     "id": 3945274,
+     "name": "Luka Doncic",
+     "pos": "PG",
+     "nba_team": "LAL",
+     "slots": [
+      "PG"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "PG",
+     "avg_fp_espn": 67.86,
+     "avg_last7": 80.5,
+     "avg_last15": 67.86,
+     "gp_proxy_total": 475.0
+    },
+    {
+     "id": 4277905,
+     "name": "Trae Young",
+     "pos": "PG",
+     "nba_team": "WAS",
+     "slots": [
+      "PG"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "G",
+     "avg_fp_espn": 39.5,
+     "avg_last7": 34.17,
+     "avg_last15": 39.5,
+     "gp_proxy_total": 276.5
+    },
+    {
+     "id": 3202,
+     "name": "Kevin Durant",
+     "pos": "PF",
+     "nba_team": "HOU",
+     "slots": [
+      "SF",
+      "PF"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "SF",
+     "avg_fp_espn": 36.19,
+     "avg_last7": 33.0,
+     "avg_last15": 36.19,
+     "gp_proxy_total": 289.5
+    },
+    {
+     "id": 3149673,
+     "name": "Pascal Siakam",
+     "pos": "PF",
+     "nba_team": "IND",
+     "slots": [
+      "PF"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "PF",
+     "avg_fp_espn": 35.79,
+     "avg_last7": 33.17,
+     "avg_last15": 35.79,
+     "gp_proxy_total": 250.5
+    },
+    {
+     "id": 4396971,
+     "name": "Naz Reid",
+     "pos": "C",
+     "nba_team": "CHA",
+     "slots": [
+      "PF",
+      "C"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "C",
+     "avg_fp_espn": 26.75,
+     "avg_last7": 18.62,
+     "avg_last15": 26.75,
+     "gp_proxy_total": 214.0
+    },
+    {
+     "id": 4395725,
+     "name": "Tyler Herro",
+     "pos": "SG",
+     "nba_team": "MIL",
+     "slots": [
+      "PG",
+      "SG"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "UT",
+     "avg_fp_espn": 38.5,
+     "avg_last7": 33.67,
+     "avg_last15": 38.5,
+     "gp_proxy_total": 269.5
+    },
+    {
+     "id": 4845367,
+     "name": "Stephon Castle",
+     "pos": "PG",
+     "nba_team": "SAS",
+     "slots": [
+      "PG",
+      "SG"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "SG",
+     "avg_fp_espn": 33.14,
+     "avg_last7": 30.0,
+     "avg_last15": 33.14,
+     "gp_proxy_total": 232.0
+    },
+    {
+     "id": 5160992,
+     "name": "Alex Sarr",
+     "pos": "C",
+     "nba_team": "WAS",
+     "slots": [
+      "PF",
+      "C"
+     ],
+     "injury": "DAY_TO_DAY",
+     "lineup_slot": "UT",
+     "avg_fp_espn": 27.5,
+     "avg_last7": 25.25,
+     "avg_last15": 27.5,
+     "gp_proxy_total": 165.0
+    },
+    {
+     "id": 4279888,
+     "name": "Ja Morant",
+     "pos": "PG",
+     "nba_team": "POR",
+     "slots": [
+      "PG"
+     ],
+     "injury": "OUT",
+     "lineup_slot": "BE",
+     "avg_fp_espn": 34.12,
+     "avg_last7": 21.5,
+     "avg_last15": 34.12,
+     "gp_proxy_total": 136.5
+    },
+    {
+     "id": 2991230,
+     "name": "Fred VanVleet",
+     "pos": "PG",
+     "nba_team": "HOU",
+     "slots": [
+      "PG",
+      "SG"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "BE",
+     "avg_fp_espn": 34.5,
+     "avg_last7": 36.83,
+     "avg_last15": 34.5,
+     "gp_proxy_total": 207.0
+    },
+    {
+     "id": 6440,
+     "name": "Tobias Harris",
+     "pos": "PF",
+     "nba_team": "SAS",
+     "slots": [
+      "SF",
+      "PF"
+     ],
+     "injury": "OUT",
+     "lineup_slot": "BE",
+     "avg_fp_espn": 0.0,
+     "avg_last7": 0.0,
+     "avg_last15": 0.0,
+     "gp_proxy_total": 0.0
+    },
+    {
+     "id": 4433247,
+     "name": "Jonathan Kuminga",
+     "pos": "PF",
+     "nba_team": "MIN",
+     "slots": [
+      "SF",
+      "PF"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "F",
+     "avg_fp_espn": 31.81,
+     "avg_last7": 30.38,
+     "avg_last15": 31.81,
+     "gp_proxy_total": 254.5
+    },
+    {
+     "id": 4278049,
+     "name": "Daniel Gafford",
+     "pos": "C",
+     "nba_team": "DAL",
+     "slots": [
+      "C"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "UT",
+     "avg_fp_espn": 35.36,
+     "avg_last7": 40.83,
+     "avg_last15": 35.36,
+     "gp_proxy_total": 247.5
+    }
+   ]
+  },
+  {
+   "name": "Alberto's Tanking Team",
+   "record": "2-0",
+   "acquisitions": 5,
+   "roster": [
+    {
+     "id": 5104157,
+     "name": "Victor Wembanyama",
+     "pos": "C",
+     "nba_team": "SAS",
+     "slots": [
+      "C"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "C",
+     "avg_fp_espn": 61.71,
+     "avg_last7": 69.67,
+     "avg_last15": 61.71,
+     "gp_proxy_total": 432.0
+    },
+    {
+     "id": 4684740,
+     "name": "Amen Thompson",
+     "pos": "SF",
+     "nba_team": "HOU",
+     "slots": [
+      "SG",
+      "SF"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "SF",
+     "avg_fp_espn": 36.25,
+     "avg_last7": 31.0,
+     "avg_last15": 36.25,
+     "gp_proxy_total": 290.0
+    },
+    {
+     "id": 4432816,
+     "name": "LaMelo Ball",
+     "pos": "PG",
+     "nba_team": "MIN",
+     "slots": [
+      "PG"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "PG",
+     "avg_fp_espn": 33.62,
+     "avg_last7": 36.12,
+     "avg_last15": 33.62,
+     "gp_proxy_total": 269.0
+    },
+    {
+     "id": 4593803,
+     "name": "Jalen Williams",
+     "pos": "PF",
+     "nba_team": "OKC",
+     "slots": [
+      "SF",
+      "PF"
+     ],
+     "injury": "OUT",
+     "lineup_slot": "IR",
+     "avg_fp_espn": 26.33,
+     "avg_last7": 0,
+     "avg_last15": 26.33,
+     "gp_proxy_total": 79.0
+    },
+    {
+     "id": 3975,
+     "name": "Stephen Curry",
+     "pos": "PG",
+     "nba_team": "GSW",
+     "slots": [
+      "PG"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "G",
+     "avg_fp_espn": 49.08,
+     "avg_last7": 61.0,
+     "avg_last15": 49.08,
+     "gp_proxy_total": 294.5
+    },
+    {
+     "id": 5041935,
+     "name": "Cameron Boozer",
+     "pos": "PF",
+     "nba_team": "MEM",
+     "slots": [
+      "PF"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "F",
+     "avg_fp_espn": 39.36,
+     "avg_last7": 50.33,
+     "avg_last15": 39.36,
+     "gp_proxy_total": 275.5
+    },
+    {
+     "id": 4017837,
+     "name": "Ivica Zubac",
+     "pos": "C",
+     "nba_team": "IND",
+     "slots": [
+      "C"
+     ],
+     "injury": "OUT",
+     "lineup_slot": "BE",
+     "avg_fp_espn": 25.67,
+     "avg_last7": 0,
+     "avg_last15": 25.67,
+     "gp_proxy_total": 77.0
+    },
+    {
+     "id": 5037871,
+     "name": "Dylan Harper",
+     "pos": "PG",
+     "nba_team": "SAS",
+     "slots": [
+      "PG",
+      "SG"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "SG",
+     "avg_fp_espn": 37.64,
+     "avg_last7": 39.5,
+     "avg_last15": 37.64,
+     "gp_proxy_total": 263.5
+    },
+    {
+     "id": 4066354,
+     "name": "Payton Pritchard",
+     "pos": "PG",
+     "nba_team": "BOS",
+     "slots": [
+      "PG",
+      "SG"
+     ],
+     "injury": "DAY_TO_DAY",
+     "lineup_slot": "UT",
+     "avg_fp_espn": 25.71,
+     "avg_last7": 27.0,
+     "avg_last15": 25.71,
+     "gp_proxy_total": 180.0
+    },
+    {
+     "id": 4251,
+     "name": "Paul George",
+     "pos": "SF",
+     "nba_team": "BOS",
+     "slots": [
+      "SF",
+      "PF"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "PF",
+     "avg_fp_espn": 44.83,
+     "avg_last7": 50.75,
+     "avg_last15": 44.83,
+     "gp_proxy_total": 269.0
+    },
+    {
+     "id": 4222252,
+     "name": "Isaiah Hartenstein",
+     "pos": "C",
+     "nba_team": "OKC",
+     "slots": [
+      "C"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "UT",
+     "avg_fp_espn": 30.14,
+     "avg_last7": 32.33,
+     "avg_last15": 30.14,
+     "gp_proxy_total": 211.0
+    },
+    {
+     "id": 4712849,
+     "name": "Anthony Black",
+     "pos": "PG",
+     "nba_team": "ORL",
+     "slots": [
+      "PG",
+      "SG"
+     ],
+     "injury": "DAY_TO_DAY",
+     "lineup_slot": "BE",
+     "avg_fp_espn": 35.75,
+     "avg_last7": 33.0,
+     "avg_last15": 35.75,
+     "gp_proxy_total": 143.0
+    },
+    {
+     "id": 4278067,
+     "name": "Nic Claxton",
+     "pos": "C",
+     "nba_team": "CHI",
+     "slots": [
+      "C"
+     ],
+     "injury": "OUT",
+     "lineup_slot": "IR",
+     "avg_fp_espn": 0.0,
+     "avg_last7": 0.0,
+     "avg_last15": 0.0,
+     "gp_proxy_total": 0.0
+    },
+    {
+     "id": 4576087,
+     "name": "Peyton Watson",
+     "pos": "SF",
+     "nba_team": "CLE",
+     "slots": [
+      "SF",
+      "PF"
+     ],
+     "injury": "OUT",
+     "lineup_slot": "BE",
+     "avg_fp_espn": 27.75,
+     "avg_last7": 27.0,
+     "avg_last15": 27.75,
+     "gp_proxy_total": 166.5
+    },
+    {
+     "id": 5041955,
+     "name": "Darryn Peterson",
+     "pos": "SG",
+     "nba_team": "UTA",
+     "slots": [
+      "PG",
+      "SG"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "BE",
+     "avg_fp_espn": 29.21,
+     "avg_last7": 35.33,
+     "avg_last15": 29.21,
+     "gp_proxy_total": 204.5
+    }
+   ]
+  },
+  {
+   "name": "Garotasaray Pension Club",
+   "record": "1-1",
+   "acquisitions": 1,
+   "roster": [
+    {
+     "id": 4065648,
+     "name": "Jayson Tatum",
+     "pos": "PF",
+     "nba_team": "BOS",
+     "slots": [
+      "SF",
+      "PF"
+     ],
+     "injury": "DAY_TO_DAY",
+     "lineup_slot": "SF",
+     "avg_fp_espn": 45.14,
+     "avg_last7": 38.83,
+     "avg_last15": 45.14,
+     "gp_proxy_total": 316.0
+    },
+    {
+     "id": 3908809,
+     "name": "Donovan Mitchell",
+     "pos": "SG",
+     "nba_team": "CLE",
+     "slots": [
+      "PG",
+      "SG"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "SG",
+     "avg_fp_espn": 39.21,
+     "avg_last7": 32.5,
+     "avg_last15": 39.21,
+     "gp_proxy_total": 274.5
+    },
+    {
+     "id": 6583,
+     "name": "Anthony Davis",
+     "pos": "C",
+     "nba_team": "WAS",
+     "slots": [
+      "PF",
+      "C"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "C",
+     "avg_fp_espn": 42.71,
+     "avg_last7": 48.17,
+     "avg_last15": 42.71,
+     "gp_proxy_total": 299.0
+    },
+    {
+     "id": 4683021,
+     "name": "Deni Avdija",
+     "pos": "SF",
+     "nba_team": "POR",
+     "slots": [
+      "SF",
+      "PF"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "F",
+     "avg_fp_espn": 40.75,
+     "avg_last7": 37.5,
+     "avg_last15": 40.75,
+     "gp_proxy_total": 244.5
+    },
+    {
+     "id": 4396907,
+     "name": "Darius Garland",
+     "pos": "PG",
+     "nba_team": "LAC",
+     "slots": [
+      "PG"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "BE",
+     "avg_fp_espn": 26.86,
+     "avg_last7": 23.25,
+     "avg_last15": 26.86,
+     "gp_proxy_total": 188.0
+    },
+    {
+     "id": 3064514,
+     "name": "Julius Randle",
+     "pos": "PF",
+     "nba_team": "BKN",
+     "slots": [
+      "PF"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "PF",
+     "avg_fp_espn": 34.57,
+     "avg_last7": 29.5,
+     "avg_last15": 34.57,
+     "gp_proxy_total": 242.0
+    },
+    {
+     "id": 4066259,
+     "name": "De'Aaron Fox",
+     "pos": "PG",
+     "nba_team": "SAS",
+     "slots": [
+      "PG",
+      "SG"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "G",
+     "avg_fp_espn": 36.86,
+     "avg_last7": 35.5,
+     "avg_last15": 36.86,
+     "gp_proxy_total": 258.0
+    },
+    {
+     "id": 3032976,
+     "name": "Rudy Gobert",
+     "pos": "C",
+     "nba_team": "MIN",
+     "slots": [
+      "C"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "BE",
+     "avg_fp_espn": 25.57,
+     "avg_last7": 23.67,
+     "avg_last15": 25.57,
+     "gp_proxy_total": 179.0
+    },
+    {
+     "id": 2595516,
+     "name": "Norman Powell",
+     "pos": "SG",
+     "nba_team": "CHI",
+     "slots": [
+      "SG",
+      "SF"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "UT",
+     "avg_fp_espn": 29.71,
+     "avg_last7": 27.83,
+     "avg_last15": 29.71,
+     "gp_proxy_total": 208.0
+    },
+    {
+     "id": 5124612,
+     "name": "VJ Edgecombe",
+     "pos": "SG",
+     "nba_team": "PHL",
+     "slots": [
+      "SG"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "UT",
+     "avg_fp_espn": 32.43,
+     "avg_last7": 30.12,
+     "avg_last15": 32.43,
+     "gp_proxy_total": 227.0
+    },
+    {
+     "id": 4711272,
+     "name": "Reed Sheppard",
+     "pos": "SG",
+     "nba_team": "HOU",
+     "slots": [
+      "PG",
+      "SG"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "IR",
+     "avg_fp_espn": 23.7,
+     "avg_last7": 14.75,
+     "avg_last15": 23.7,
+     "gp_proxy_total": 118.5
+    },
+    {
+     "id": 3908845,
+     "name": "John Collins",
+     "pos": "PF",
+     "nba_team": "DET",
+     "slots": [
+      "PF",
+      "C"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "BE",
+     "avg_fp_espn": 21.79,
+     "avg_last7": 9.17,
+     "avg_last15": 21.79,
+     "gp_proxy_total": 152.5
+    },
+    {
+     "id": 3064440,
+     "name": "Zach LaVine",
+     "pos": "SG",
+     "nba_team": "SAC",
+     "slots": [
+      "SG",
+      "SF"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "BE",
+     "avg_fp_espn": 34.14,
+     "avg_last7": 28.17,
+     "avg_last15": 34.14,
+     "gp_proxy_total": 239.0
+    },
+    {
+     "id": 4278053,
+     "name": "Davion Mitchell",
+     "pos": "PG",
+     "nba_team": "MIA",
+     "slots": [
+      "PG"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "PG",
+     "avg_fp_espn": 37.14,
+     "avg_last7": 38.33,
+     "avg_last15": 37.14,
+     "gp_proxy_total": 260.0
+    }
+   ]
+  },
+  {
+   "name": "Philly Rules",
+   "record": "2-0",
+   "acquisitions": 3,
+   "roster": [
+    {
+     "id": 3112335,
+     "name": "Nikola Jokic",
+     "pos": "C",
+     "nba_team": "DEN",
+     "slots": [
+      "C"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "C",
+     "avg_fp_espn": 61.58,
+     "avg_last7": 61.0,
+     "avg_last15": 61.58,
+     "gp_proxy_total": 369.5
+    },
+    {
+     "id": 3136195,
+     "name": "Karl-Anthony Towns",
+     "pos": "C",
+     "nba_team": "NYK",
+     "slots": [
+      "C"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "UT",
+     "avg_fp_espn": 44.07,
+     "avg_last7": 39.0,
+     "avg_last15": 44.07,
+     "gp_proxy_total": 308.5
+    },
+    {
+     "id": 4871145,
+     "name": "Josh Giddey",
+     "pos": "PG",
+     "nba_team": "CHI",
+     "slots": [
+      "PG",
+      "SG"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "PG",
+     "avg_fp_espn": 28.0,
+     "avg_last7": 33.5,
+     "avg_last15": 28.0,
+     "gp_proxy_total": 196.0
+    },
+    {
+     "id": 3078576,
+     "name": "Derrick White",
+     "pos": "SG",
+     "nba_team": "BOS",
+     "slots": [
+      "PG",
+      "SG"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "BE",
+     "avg_fp_espn": 26.86,
+     "avg_last7": 21.17,
+     "avg_last15": 26.86,
+     "gp_proxy_total": 188.0
+    },
+    {
+     "id": 3907497,
+     "name": "Dejounte Murray",
+     "pos": "SG",
+     "nba_team": "NOP",
+     "slots": [
+      "PG",
+      "SG"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "SG",
+     "avg_fp_espn": 43.38,
+     "avg_last7": 26.5,
+     "avg_last15": 43.38,
+     "gp_proxy_total": 173.5
+    },
+    {
+     "id": 5061575,
+     "name": "Kon Knueppel",
+     "pos": "SF",
+     "nba_team": "CHA",
+     "slots": [
+      "SG",
+      "SF"
+     ],
+     "injury": "OUT",
+     "lineup_slot": "BE",
+     "avg_fp_espn": 0.0,
+     "avg_last7": 0.0,
+     "avg_last15": 0.0,
+     "gp_proxy_total": 0.0
+    },
+    {
+     "id": 4066383,
+     "name": "Miles Bridges",
+     "pos": "SF",
+     "nba_team": "PHO",
+     "slots": [
+      "SF",
+      "PF"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "SF",
+     "avg_fp_espn": 39.0,
+     "avg_last7": 57.25,
+     "avg_last15": 39.0,
+     "gp_proxy_total": 195.0
+    },
+    {
+     "id": 6606,
+     "name": "Damian Lillard",
+     "pos": "PG",
+     "nba_team": "POR",
+     "slots": [
+      "PG"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "G",
+     "avg_fp_espn": 31.67,
+     "avg_last7": 26.83,
+     "avg_last15": 31.67,
+     "gp_proxy_total": 190.0
+    },
+    {
+     "id": 5095151,
+     "name": "Caleb Wilson",
+     "pos": "SF",
+     "nba_team": "CHI",
+     "slots": [
+      "SF"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "BE",
+     "avg_fp_espn": 42.21,
+     "avg_last7": 50.0,
+     "avg_last15": 42.21,
+     "gp_proxy_total": 295.5
+    },
+    {
+     "id": 3913176,
+     "name": "Brandon Ingram",
+     "pos": "SF",
+     "nba_team": "LAC",
+     "slots": [
+      "SF",
+      "PF"
+     ],
+     "injury": "OUT",
+     "lineup_slot": "IR",
+     "avg_fp_espn": 0.0,
+     "avg_last7": 0.0,
+     "avg_last15": 0.0,
+     "gp_proxy_total": 0.0
+    },
+    {
+     "id": 4903027,
+     "name": "Cedric Coward",
+     "pos": "SF",
+     "nba_team": "MEM",
+     "slots": [
+      "SG",
+      "SF"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "F",
+     "avg_fp_espn": 32.75,
+     "avg_last7": 32.17,
+     "avg_last15": 32.75,
+     "gp_proxy_total": 196.5
+    },
+    {
+     "id": 5175737,
+     "name": "Yaxel Lendeborg",
+     "pos": "SF",
+     "nba_team": "GSW",
+     "slots": [
+      "SF",
+      "PF"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "PF",
+     "avg_fp_espn": 40.5,
+     "avg_last7": 34.25,
+     "avg_last15": 40.5,
+     "gp_proxy_total": 324.0
+    },
+    {
+     "id": 4277847,
+     "name": "Wendell Carter Jr.",
+     "pos": "C",
+     "nba_team": "ORL",
+     "slots": [
+      "C"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "UT",
+     "avg_fp_espn": 31.64,
+     "avg_last7": 24.75,
+     "avg_last15": 31.64,
+     "gp_proxy_total": 221.5
+    },
+    {
+     "id": 3133628,
+     "name": "Myles Turner",
+     "pos": "C",
+     "nba_team": "MIL",
+     "slots": [
+      "C"
+     ],
+     "injury": "ACTIVE",
+     "lineup_slot": "BE",
+     "avg_fp_espn": 27.79,
+     "avg_last7": 32.17,
+     "avg_last15": 27.79,
+     "gp_proxy_total": 194.5
+    }
+   ]
+  }
+ ],
+ "my_team": {
+  "name": "Dallas Savericks",
+  "record": "1-1",
+  "acquisitions": 2,
+  "roster": [
+   {
+    "id": 4871144,
+    "name": "Alperen Sengun",
+    "pos": "C",
+    "nba_team": "HOU",
+    "slots": [
+     "C"
+    ],
+    "injury": "ACTIVE",
+    "lineup_slot": "C",
+    "avg_fp_espn": 57.17,
+    "avg_last7": 61.25,
+    "avg_last15": 57.17,
+    "gp_proxy_total": 343.0
+   },
+   {
+    "id": 3155942,
+    "name": "Domantas Sabonis",
+    "pos": "C",
+    "nba_team": "SAC",
+    "slots": [
+     "PF",
+     "C"
+    ],
+    "injury": "ACTIVE",
+    "lineup_slot": "PF",
+    "avg_fp_espn": 51.5,
+    "avg_last7": 39.33,
+    "avg_last15": 51.5,
+    "gp_proxy_total": 360.5
+   },
+   {
+    "id": 3936299,
+    "name": "Jamal Murray",
+    "pos": "PG",
+    "nba_team": "DEN",
+    "slots": [
+     "PG"
+    ],
+    "injury": "ACTIVE",
+    "lineup_slot": "PG",
+    "avg_fp_espn": 50.67,
+    "avg_last7": 58.0,
+    "avg_last15": 50.67,
+    "gp_proxy_total": 304.0
+   },
+   {
+    "id": 4869342,
+    "name": "Dyson Daniels",
+    "pos": "SG",
+    "nba_team": "ATL",
+    "slots": [
+     "PG",
+     "SG"
+    ],
+    "injury": "ACTIVE",
+    "lineup_slot": "SG",
+    "avg_fp_espn": 38.0,
+    "avg_last7": 32.75,
+    "avg_last15": 38.0,
+    "gp_proxy_total": 304.0
+   },
+   {
+    "id": 4395628,
+    "name": "Zion Williamson",
+    "pos": "PF",
+    "nba_team": "NOP",
+    "slots": [
+     "PF",
+     "C"
+    ],
+    "injury": "ACTIVE",
+    "lineup_slot": "F",
+    "avg_fp_espn": 45.0,
+    "avg_last7": 49.38,
+    "avg_last15": 45.0,
+    "gp_proxy_total": 315.0
+   },
+   {
+    "id": 5105565,
+    "name": "Donovan Clingan",
+    "pos": "C",
+    "nba_team": "POR",
+    "slots": [
+     "C"
+    ],
+    "injury": "ACTIVE",
+    "lineup_slot": "UT",
+    "avg_fp_espn": 38.58,
+    "avg_last7": 45.83,
+    "avg_last15": 38.58,
+    "gp_proxy_total": 231.5
+   },
+   {
+    "id": 4278104,
+    "name": "Michael Porter Jr.",
+    "pos": "SF",
+    "nba_team": "BKN",
+    "slots": [
+     "SF",
+     "PF"
+    ],
+    "injury": "ACTIVE",
+    "lineup_slot": "UT",
+    "avg_fp_espn": 37.5,
+    "avg_last7": 31.83,
+    "avg_last15": 37.5,
+    "gp_proxy_total": 262.5
+   },
+   {
+    "id": 5105623,
+    "name": "Kel'el Ware",
+    "pos": "C",
+    "nba_team": "MIL",
+    "slots": [
+     "C"
+    ],
+    "injury": "ACTIVE",
+    "lineup_slot": "BE",
+    "avg_fp_espn": 28.0,
+    "avg_last7": 25.0,
+    "avg_last15": 28.0,
+    "gp_proxy_total": 196.0
+   },
+   {
+    "id": 4065733,
+    "name": "Ty Jerome",
+    "pos": "SG",
+    "nba_team": "MEM",
+    "slots": [
+     "PG",
+     "SG"
+    ],
+    "injury": "ACTIVE",
+    "lineup_slot": "G",
+    "avg_fp_espn": 46.92,
+    "avg_last7": 40.0,
+    "avg_last15": 46.92,
+    "gp_proxy_total": 281.5
+   },
+   {
+    "id": 4432848,
+    "name": "Jaime Jaquez Jr.",
+    "pos": "SF",
+    "nba_team": "MIL",
+    "slots": [
+     "SG",
+     "SF"
+    ],
+    "injury": "ACTIVE",
+    "lineup_slot": "SF",
+    "avg_fp_espn": 30.43,
+    "avg_last7": 30.33,
+    "avg_last15": 30.43,
+    "gp_proxy_total": 213.0
+   },
+   {
+    "id": 3064290,
+    "name": "Aaron Gordon",
+    "pos": "PF",
+    "nba_team": "DEN",
+    "slots": [
+     "PF"
+    ],
+    "injury": "ACTIVE",
+    "lineup_slot": "BE",
+    "avg_fp_espn": 25.92,
+    "avg_last7": 26.5,
+    "avg_last15": 25.92,
+    "gp_proxy_total": 155.5
+   },
+   {
+    "id": 6430,
+    "name": "Jimmy Butler III",
+    "pos": "SF",
+    "nba_team": "GSW",
+    "slots": [
+     "SG",
+     "SF"
+    ],
+    "injury": "OUT",
+    "lineup_slot": "IR",
+    "avg_fp_espn": 0.0,
+    "avg_last7": 0.0,
+    "avg_last15": 0.0,
+    "gp_proxy_total": 0.0
+   },
+   {
+    "id": 4900671,
+    "name": "Ajay Mitchell",
+    "pos": "PG",
+    "nba_team": "OKC",
+    "slots": [
+     "PG",
+     "SG"
+    ],
+    "injury": "ACTIVE",
+    "lineup_slot": "UT",
+    "avg_fp_espn": 34.43,
+    "avg_last7": 34.33,
+    "avg_last15": 34.43,
+    "gp_proxy_total": 241.0
+   },
+   {
+    "id": 5144091,
+    "name": "Jeremiah Fears",
+    "pos": "SG",
+    "nba_team": "NOP",
+    "slots": [
+     "PG",
+     "SG"
+    ],
+    "injury": "ACTIVE",
+    "lineup_slot": "BE",
+    "avg_fp_espn": 27.0,
+    "avg_last7": 39.62,
+    "avg_last15": 27.0,
+    "gp_proxy_total": 189.0
+   }
+  ]
+ },
+ "free_agents": [
+  {
+   "id": 4591725,
+   "name": "Ryan Rollins",
+   "pos": "SG",
+   "nba_team": "MIL",
+   "slots": [
+    "PG",
+    "SG"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 23.07,
+   "avg_last7": 16.83,
+   "avg_last15": 23.07,
+   "gp_proxy_total": 161.5
+  },
+  {
+   "id": 4431767,
+   "name": "Christian Braun",
+   "pos": "SG",
+   "nba_team": "DEN",
+   "slots": [
+    "SG",
+    "SF"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 34.42,
+   "avg_last7": 42.0,
+   "avg_last15": 34.42,
+   "gp_proxy_total": 206.5
+  },
+  {
+   "id": 3157465,
+   "name": "Duncan Robinson",
+   "pos": "SF",
+   "nba_team": "DET",
+   "slots": [
+    "SG",
+    "SF"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 33.5,
+   "avg_last7": 41.83,
+   "avg_last15": 33.5,
+   "gp_proxy_total": 234.5
+  },
+  {
+   "id": 4395630,
+   "name": "Devin Vassell",
+   "pos": "SG",
+   "nba_team": "SAS",
+   "slots": [
+    "SG",
+    "SF"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 26.86,
+   "avg_last7": 27.5,
+   "avg_last15": 26.86,
+   "gp_proxy_total": 188.0
+  },
+  {
+   "id": 6478,
+   "name": "Nikola Vucevic",
+   "pos": "C",
+   "nba_team": "ORL",
+   "slots": [
+    "C"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 11.64,
+   "avg_last7": 14.25,
+   "avg_last15": 11.64,
+   "gp_proxy_total": 81.5
+  },
+  {
+   "id": 4397140,
+   "name": "Kevin Porter Jr.",
+   "pos": "SG",
+   "nba_team": "FA",
+   "slots": [
+    "PG",
+    "SG"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 0.0,
+   "avg_last7": 0.0,
+   "avg_last15": 0.0,
+   "gp_proxy_total": 0.0
+  },
+  {
+   "id": 4278585,
+   "name": "Collin Gillespie",
+   "pos": "PG",
+   "nba_team": "PHO",
+   "slots": [
+    "PG"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 27.4,
+   "avg_last7": 37.0,
+   "avg_last15": 27.4,
+   "gp_proxy_total": 137.0
+  },
+  {
+   "id": 3134908,
+   "name": "Jakob Poeltl",
+   "pos": "C",
+   "nba_team": "TOR",
+   "slots": [
+    "C"
+   ],
+   "injury": "DAY_TO_DAY",
+   "lineup_slot": "",
+   "avg_fp_espn": 17.0,
+   "avg_last7": 21.5,
+   "avg_last15": 17.0,
+   "gp_proxy_total": 85.0
+  },
+  {
+   "id": 3155526,
+   "name": "Dillon Brooks",
+   "pos": "SF",
+   "nba_team": "PHO",
+   "slots": [
+    "SG",
+    "SF"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 27.3,
+   "avg_last7": 31.0,
+   "avg_last15": 27.3,
+   "gp_proxy_total": 136.5
+  },
+  {
+   "id": 4594327,
+   "name": "Keegan Murray",
+   "pos": "PF",
+   "nba_team": "SAC",
+   "slots": [
+    "SF",
+    "PF"
+   ],
+   "injury": "OUT",
+   "lineup_slot": "",
+   "avg_fp_espn": 12.75,
+   "avg_last7": 0,
+   "avg_last15": 12.75,
+   "gp_proxy_total": 25.5
+  },
+  {
+   "id": 5175643,
+   "name": "Egor Demin",
+   "pos": "PG",
+   "nba_team": "BKN",
+   "slots": [
+    "PG",
+    "SG"
+   ],
+   "injury": "OUT",
+   "lineup_slot": "",
+   "avg_fp_espn": 15.38,
+   "avg_last7": 0,
+   "avg_last15": 15.38,
+   "gp_proxy_total": 61.5
+  },
+  {
+   "id": 4683778,
+   "name": "Jared McCain",
+   "pos": "SG",
+   "nba_team": "OKC",
+   "slots": [
+    "PG",
+    "SG"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 16.29,
+   "avg_last7": 13.67,
+   "avg_last15": 16.29,
+   "gp_proxy_total": 114.0
+  },
+  {
+   "id": 4397183,
+   "name": "Aaron Wiggins",
+   "pos": "SG",
+   "nba_team": "ATL",
+   "slots": [
+    "SG",
+    "SF"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 26.5,
+   "avg_last7": 21.12,
+   "avg_last15": 26.5,
+   "gp_proxy_total": 212.0
+  },
+  {
+   "id": 4431679,
+   "name": "Precious Achiuwa",
+   "pos": "PF",
+   "nba_team": "SAC",
+   "slots": [
+    "PF",
+    "C"
+   ],
+   "injury": "DAY_TO_DAY",
+   "lineup_slot": "",
+   "avg_fp_espn": 32.86,
+   "avg_last7": 38.5,
+   "avg_last15": 32.86,
+   "gp_proxy_total": 230.0
+  },
+  {
+   "id": 4278078,
+   "name": "P.J. Washington",
+   "pos": "PF",
+   "nba_team": "DAL",
+   "slots": [
+    "SF",
+    "PF"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 26.93,
+   "avg_last7": 20.83,
+   "avg_last15": 26.93,
+   "gp_proxy_total": 188.5
+  },
+  {
+   "id": 6589,
+   "name": "Draymond Green",
+   "pos": "PF",
+   "nba_team": "GSW",
+   "slots": [
+    "PF",
+    "C"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 21.33,
+   "avg_last7": 25.33,
+   "avg_last15": 21.33,
+   "gp_proxy_total": 128.0
+  },
+  {
+   "id": 3448,
+   "name": "Brook Lopez",
+   "pos": "C",
+   "nba_team": "LAC",
+   "slots": [
+    "C"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 26.14,
+   "avg_last7": 18.0,
+   "avg_last15": 26.14,
+   "gp_proxy_total": 183.0
+  },
+  {
+   "id": 4277811,
+   "name": "Collin Sexton",
+   "pos": "SG",
+   "nba_team": "LAL",
+   "slots": [
+    "PG",
+    "SG"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 17.86,
+   "avg_last7": 21.25,
+   "avg_last15": 17.86,
+   "gp_proxy_total": 125.0
+  },
+  {
+   "id": 4397424,
+   "name": "Neemias Queta",
+   "pos": "C",
+   "nba_team": "BOS",
+   "slots": [
+    "C"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 25.14,
+   "avg_last7": 27.83,
+   "avg_last15": 25.14,
+   "gp_proxy_total": 176.0
+  },
+  {
+   "id": 4684272,
+   "name": "Ja'Kobe Walter",
+   "pos": "SG",
+   "nba_team": "TOR",
+   "slots": [
+    "SG"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 30.5,
+   "avg_last7": 27.0,
+   "avg_last15": 30.5,
+   "gp_proxy_total": 213.5
+  },
+  {
+   "id": 4397136,
+   "name": "Saddiq Bey",
+   "pos": "SF",
+   "nba_team": "NOP",
+   "slots": [
+    "SF",
+    "PF"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 27.5,
+   "avg_last7": 30.25,
+   "avg_last15": 27.5,
+   "gp_proxy_total": 192.5
+  },
+  {
+   "id": 2991350,
+   "name": "Alex Caruso",
+   "pos": "SG",
+   "nba_team": "OKC",
+   "slots": [
+    "PG",
+    "SG"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 31.38,
+   "avg_last7": 0,
+   "avg_last15": 31.38,
+   "gp_proxy_total": 125.5
+  },
+  {
+   "id": 4432165,
+   "name": "Jalen Suggs",
+   "pos": "PG",
+   "nba_team": "ORL",
+   "slots": [
+    "PG",
+    "SG"
+   ],
+   "injury": "OUT",
+   "lineup_slot": "",
+   "avg_fp_espn": 27.0,
+   "avg_last7": 0,
+   "avg_last15": 27.0,
+   "gp_proxy_total": 81.0
+  },
+  {
+   "id": 3135045,
+   "name": "Grayson Allen",
+   "pos": "SG",
+   "nba_team": "CHA",
+   "slots": [
+    "PG",
+    "SG"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 24.12,
+   "avg_last7": 22.75,
+   "avg_last15": 24.12,
+   "gp_proxy_total": 193.0
+  },
+  {
+   "id": 3064482,
+   "name": "Bobby Portis",
+   "pos": "PF",
+   "nba_team": "MIA",
+   "slots": [
+    "PF",
+    "C"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 23.86,
+   "avg_last7": 20.67,
+   "avg_last15": 23.86,
+   "gp_proxy_total": 167.0
+  },
+  {
+   "id": 4351851,
+   "name": "Anfernee Simons",
+   "pos": "SG",
+   "nba_team": "PHL",
+   "slots": [
+    "PG",
+    "SG"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 20.0,
+   "avg_last7": 29.0,
+   "avg_last15": 20.0,
+   "gp_proxy_total": 160.0
+  },
+  {
+   "id": 5174983,
+   "name": "Aday Mara",
+   "pos": "C",
+   "nba_team": "OKC",
+   "slots": [
+    "C"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 20.93,
+   "avg_last7": 26.17,
+   "avg_last15": 20.93,
+   "gp_proxy_total": 146.5
+  },
+  {
+   "id": 4433192,
+   "name": "Tari Eason",
+   "pos": "SF",
+   "nba_team": "HOU",
+   "slots": [
+    "SF",
+    "PF"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 27.5,
+   "avg_last7": 30.62,
+   "avg_last15": 27.5,
+   "gp_proxy_total": 220.0
+  },
+  {
+   "id": 5254165,
+   "name": "Keaton Wagler",
+   "pos": "PG",
+   "nba_team": "LAC",
+   "slots": [
+    "PG",
+    "SG"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 20.93,
+   "avg_last7": 18.5,
+   "avg_last15": 20.93,
+   "gp_proxy_total": 146.5
+  },
+  {
+   "id": 4601025,
+   "name": "Pelle Larsson",
+   "pos": "SG",
+   "nba_team": "MIA",
+   "slots": [
+    "SG",
+    "SF"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 25.79,
+   "avg_last7": 28.5,
+   "avg_last15": 25.79,
+   "gp_proxy_total": 180.5
+  },
+  {
+   "id": 4601023,
+   "name": "Oso Ighodaro",
+   "pos": "PF",
+   "nba_team": "PHO",
+   "slots": [
+    "PF"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 20.83,
+   "avg_last7": 21.75,
+   "avg_last15": 20.83,
+   "gp_proxy_total": 62.5
+  },
+  {
+   "id": 4351852,
+   "name": "Mitchell Robinson",
+   "pos": "C",
+   "nba_team": "BOS",
+   "slots": [
+    "C"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 17.25,
+   "avg_last7": 15.75,
+   "avg_last15": 17.25,
+   "gp_proxy_total": 103.5
+  },
+  {
+   "id": 4066436,
+   "name": "De'Anthony Melton",
+   "pos": "PG",
+   "nba_team": "GSW",
+   "slots": [
+    "PG",
+    "SG"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 27.19,
+   "avg_last7": 30.38,
+   "avg_last15": 27.19,
+   "gp_proxy_total": 217.5
+  },
+  {
+   "id": 4432170,
+   "name": "Isaiah Jackson",
+   "pos": "PF",
+   "nba_team": "LAC",
+   "slots": [
+    "PF",
+    "C"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 31.0,
+   "avg_last7": 30.75,
+   "avg_last15": 31.0,
+   "gp_proxy_total": 217.0
+  },
+  {
+   "id": 4702382,
+   "name": "Tristan da Silva",
+   "pos": "SF",
+   "nba_team": "ORL",
+   "slots": [
+    "SF",
+    "PF"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 25.86,
+   "avg_last7": 25.25,
+   "avg_last15": 25.86,
+   "gp_proxy_total": 181.0
+  },
+  {
+   "id": 4066262,
+   "name": "Malik Monk",
+   "pos": "SG",
+   "nba_team": "SAC",
+   "slots": [
+    "PG",
+    "SG"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 14.25,
+   "avg_last7": 21.33,
+   "avg_last15": 14.25,
+   "gp_proxy_total": 85.5
+  },
+  {
+   "id": 4278355,
+   "name": "Obi Toppin",
+   "pos": "PF",
+   "nba_team": "IND",
+   "slots": [
+    "PF"
+   ],
+   "injury": "OUT",
+   "lineup_slot": "",
+   "avg_fp_espn": 29.9,
+   "avg_last7": 20.5,
+   "avg_last15": 29.9,
+   "gp_proxy_total": 149.5
+  },
+  {
+   "id": 3936099,
+   "name": "Derrick Jones Jr.",
+   "pos": "SF",
+   "nba_team": "LAC",
+   "slots": [
+    "SF",
+    "PF"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 28.75,
+   "avg_last7": 28.0,
+   "avg_last15": 28.75,
+   "gp_proxy_total": 172.5
+  },
+  {
+   "id": 4277956,
+   "name": "Jordan Poole",
+   "pos": "SG",
+   "nba_team": "NOP",
+   "slots": [
+    "PG",
+    "SG"
+   ],
+   "injury": "OUT",
+   "lineup_slot": "",
+   "avg_fp_espn": 17.5,
+   "avg_last7": 7.5,
+   "avg_last15": 17.5,
+   "gp_proxy_total": 70.0
+  },
+  {
+   "id": 6475,
+   "name": "Klay Thompson",
+   "pos": "SG",
+   "nba_team": "MIA",
+   "slots": [
+    "SG",
+    "SF"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 17.29,
+   "avg_last7": 25.33,
+   "avg_last15": 17.29,
+   "gp_proxy_total": 121.0
+  },
+  {
+   "id": 4431785,
+   "name": "Scotty Pippen Jr.",
+   "pos": "PG",
+   "nba_team": "MEM",
+   "slots": [
+    "PG",
+    "SG"
+   ],
+   "injury": "OUT",
+   "lineup_slot": "",
+   "avg_fp_espn": 14.8,
+   "avg_last7": 3.0,
+   "avg_last15": 14.8,
+   "gp_proxy_total": 74.0
+  },
+  {
+   "id": 3134907,
+   "name": "Kyle Kuzma",
+   "pos": "PF",
+   "nba_team": "MIL",
+   "slots": [
+    "SF",
+    "PF"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 24.36,
+   "avg_last7": 17.17,
+   "avg_last15": 24.36,
+   "gp_proxy_total": 170.5
+  },
+  {
+   "id": 5093267,
+   "name": "Collin Murray-Boyles",
+   "pos": "PF",
+   "nba_team": "TOR",
+   "slots": [
+    "PF"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 21.86,
+   "avg_last7": 20.75,
+   "avg_last15": 21.86,
+   "gp_proxy_total": 153.0
+  },
+  {
+   "id": 2991070,
+   "name": "Jerami Grant",
+   "pos": "PF",
+   "nba_team": "MEM",
+   "slots": [
+    "PF"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 19.71,
+   "avg_last7": 15.5,
+   "avg_last15": 19.71,
+   "gp_proxy_total": 138.0
+  },
+  {
+   "id": 4278129,
+   "name": "Deandre Ayton",
+   "pos": "C",
+   "nba_team": "WAS",
+   "slots": [
+    "C"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 16.79,
+   "avg_last7": 15.5,
+   "avg_last15": 16.79,
+   "gp_proxy_total": 117.5
+  },
+  {
+   "id": 4395723,
+   "name": "Keldon Johnson",
+   "pos": "SF",
+   "nba_team": "SAS",
+   "slots": [
+    "SF",
+    "PF"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 21.36,
+   "avg_last7": 19.33,
+   "avg_last15": 21.36,
+   "gp_proxy_total": 149.5
+  },
+  {
+   "id": 6585,
+   "name": "Andre Drummond",
+   "pos": "C",
+   "nba_team": "NYK",
+   "slots": [
+    "C"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 20.43,
+   "avg_last7": 17.33,
+   "avg_last15": 20.43,
+   "gp_proxy_total": 143.0
+  },
+  {
+   "id": 4683634,
+   "name": "Bennedict Mathurin",
+   "pos": "SF",
+   "nba_team": "NOP",
+   "slots": [
+    "SG",
+    "SF"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 12.64,
+   "avg_last7": 10.12,
+   "avg_last15": 12.64,
+   "gp_proxy_total": 88.5
+  },
+  {
+   "id": 4432847,
+   "name": "Terrence Shannon Jr.",
+   "pos": "SG",
+   "nba_team": "MIN",
+   "slots": [
+    "SG"
+   ],
+   "injury": "DAY_TO_DAY",
+   "lineup_slot": "",
+   "avg_fp_espn": 20.21,
+   "avg_last7": 16.0,
+   "avg_last15": 20.21,
+   "gp_proxy_total": 141.5
+  },
+  {
+   "id": 3138196,
+   "name": "Cameron Johnson",
+   "pos": "SF",
+   "nba_team": "DEN",
+   "slots": [
+    "SF",
+    "PF"
+   ],
+   "injury": "DAY_TO_DAY",
+   "lineup_slot": "",
+   "avg_fp_espn": 19.33,
+   "avg_last7": 23.5,
+   "avg_last15": 19.33,
+   "gp_proxy_total": 58.0
+  },
+  {
+   "id": 4683692,
+   "name": "Cason Wallace",
+   "pos": "SG",
+   "nba_team": "OKC",
+   "slots": [
+    "PG",
+    "SG"
+   ],
+   "injury": "OUT",
+   "lineup_slot": "",
+   "avg_fp_espn": 18.83,
+   "avg_last7": 0,
+   "avg_last15": 18.83,
+   "gp_proxy_total": 56.5
+  },
+  {
+   "id": 2530530,
+   "name": "T.J. McConnell",
+   "pos": "PG",
+   "nba_team": "IND",
+   "slots": [
+    "PG"
+   ],
+   "injury": "OUT",
+   "lineup_slot": "",
+   "avg_fp_espn": 0.0,
+   "avg_last7": 0.0,
+   "avg_last15": 0.0,
+   "gp_proxy_total": 0.0
+  },
+  {
+   "id": 4592691,
+   "name": "Jake LaRavia",
+   "pos": "PF",
+   "nba_team": "LAL",
+   "slots": [
+    "SF",
+    "PF"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 23.29,
+   "avg_last7": 25.12,
+   "avg_last15": 23.29,
+   "gp_proxy_total": 163.0
+  },
+  {
+   "id": 4065732,
+   "name": "De'Andre Hunter",
+   "pos": "SF",
+   "nba_team": "SAC",
+   "slots": [
+    "SF",
+    "PF"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 19.86,
+   "avg_last7": 19.17,
+   "avg_last15": 19.86,
+   "gp_proxy_total": 139.0
+  },
+  {
+   "id": 4683678,
+   "name": "Scoot Henderson",
+   "pos": "PG",
+   "nba_team": "POR",
+   "slots": [
+    "PG",
+    "SG"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 10.83,
+   "avg_last7": 16.0,
+   "avg_last15": 10.83,
+   "gp_proxy_total": 65.0
+  },
+  {
+   "id": 3032979,
+   "name": "Dennis Schroder",
+   "pos": "PG",
+   "nba_team": "CHA",
+   "slots": [
+    "PG"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 19.69,
+   "avg_last7": 17.0,
+   "avg_last15": 19.69,
+   "gp_proxy_total": 157.5
+  },
+  {
+   "id": 3102530,
+   "name": "Jusuf Nurkic",
+   "pos": "C",
+   "nba_team": "UTA",
+   "slots": [
+    "C"
+   ],
+   "injury": "OUT",
+   "lineup_slot": "",
+   "avg_fp_espn": 0.0,
+   "avg_last7": 0.0,
+   "avg_last15": 0.0,
+   "gp_proxy_total": 0.0
+  },
+  {
+   "id": 4914336,
+   "name": "Shaedon Sharpe",
+   "pos": "SG",
+   "nba_team": "POR",
+   "slots": [
+    "SG",
+    "SF"
+   ],
+   "injury": "OUT",
+   "lineup_slot": "",
+   "avg_fp_espn": 0.0,
+   "avg_last7": 0.0,
+   "avg_last15": 0.0,
+   "gp_proxy_total": 0.0
+  },
+  {
+   "id": 4433083,
+   "name": "Cam Spencer",
+   "pos": "SG",
+   "nba_team": "MEM",
+   "slots": [
+    "PG",
+    "SG"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 27.36,
+   "avg_last7": 37.0,
+   "avg_last15": 27.36,
+   "gp_proxy_total": 191.5
+  },
+  {
+   "id": 4701232,
+   "name": "Mark Williams",
+   "pos": "C",
+   "nba_team": "PHO",
+   "slots": [
+    "C"
+   ],
+   "injury": "OUT",
+   "lineup_slot": "",
+   "avg_fp_espn": 0.0,
+   "avg_last7": 0.0,
+   "avg_last15": 0.0,
+   "gp_proxy_total": 0.0
+  },
+  {
+   "id": 5101761,
+   "name": "Mikel Brown Jr.",
+   "pos": "PG",
+   "nba_team": "BKN",
+   "slots": [
+    "PG"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 16.9,
+   "avg_last7": 13.0,
+   "avg_last15": 16.9,
+   "gp_proxy_total": 84.5
+  },
+  {
+   "id": 4593125,
+   "name": "Santi Aldama",
+   "pos": "PF",
+   "nba_team": "DAL",
+   "slots": [
+    "SF",
+    "PF"
+   ],
+   "injury": "OUT",
+   "lineup_slot": "",
+   "avg_fp_espn": 0.0,
+   "avg_last7": 0.0,
+   "avg_last15": 0.0,
+   "gp_proxy_total": 0.0
+  },
+  {
+   "id": 4278580,
+   "name": "Sandro Mamukelashvili",
+   "pos": "C",
+   "nba_team": "LAL",
+   "slots": [
+    "PF",
+    "C"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 24.06,
+   "avg_last7": 25.5,
+   "avg_last15": 24.06,
+   "gp_proxy_total": 192.5
+  },
+  {
+   "id": 3907498,
+   "name": "Matisse Thybulle",
+   "pos": "SF",
+   "nba_team": "LAL",
+   "slots": [
+    "SF"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 22.81,
+   "avg_last7": 24.25,
+   "avg_last15": 22.81,
+   "gp_proxy_total": 182.5
+  },
+  {
+   "id": 4395626,
+   "name": "Tre Jones",
+   "pos": "PG",
+   "nba_team": "CHI",
+   "slots": [
+    "PG"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 24.0,
+   "avg_last7": 29.67,
+   "avg_last15": 24.0,
+   "gp_proxy_total": 168.0
+  },
+  {
+   "id": 5107199,
+   "name": "Daniss Jenkins",
+   "pos": "PG",
+   "nba_team": "DET",
+   "slots": [
+    "PG"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 23.43,
+   "avg_last7": 20.67,
+   "avg_last15": 23.43,
+   "gp_proxy_total": 164.0
+  },
+  {
+   "id": 4432810,
+   "name": "Isaiah Stewart",
+   "pos": "C",
+   "nba_team": "MEM",
+   "slots": [
+    "PF",
+    "C"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 25.92,
+   "avg_last7": 34.83,
+   "avg_last15": 25.92,
+   "gp_proxy_total": 155.5
+  },
+  {
+   "id": 4683688,
+   "name": "Dereck Lively II",
+   "pos": "C",
+   "nba_team": "DAL",
+   "slots": [
+    "C"
+   ],
+   "injury": "OUT",
+   "lineup_slot": "",
+   "avg_fp_espn": 0.0,
+   "avg_last7": 0.0,
+   "avg_last15": 0.0,
+   "gp_proxy_total": 0.0
+  },
+  {
+   "id": 3133603,
+   "name": "Kelly Oubre Jr.",
+   "pos": "SF",
+   "nba_team": "IND",
+   "slots": [
+    "SG",
+    "SF"
+   ],
+   "injury": "DAY_TO_DAY",
+   "lineup_slot": "",
+   "avg_fp_espn": 18.57,
+   "avg_last7": 20.67,
+   "avg_last15": 18.57,
+   "gp_proxy_total": 130.0
+  },
+  {
+   "id": 4066211,
+   "name": "Robert Williams III",
+   "pos": "C",
+   "nba_team": "POR",
+   "slots": [
+    "C"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 23.8,
+   "avg_last7": 12.75,
+   "avg_last15": 23.8,
+   "gp_proxy_total": 119.0
+  },
+  {
+   "id": 4432174,
+   "name": "Cam Thomas",
+   "pos": "SG",
+   "nba_team": "FA",
+   "slots": [
+    "SG",
+    "SF"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 0.0,
+   "avg_last7": 0.0,
+   "avg_last15": 0.0,
+   "gp_proxy_total": 0.0
+  },
+  {
+   "id": 3136776,
+   "name": "D'Angelo Russell",
+   "pos": "PG",
+   "nba_team": "FA",
+   "slots": [
+    "PG",
+    "SG"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 0.0,
+   "avg_last7": 0.0,
+   "avg_last15": 0.0,
+   "gp_proxy_total": 0.0
+  },
+  {
+   "id": 5203685,
+   "name": "Khaman Maluach",
+   "pos": "C",
+   "nba_team": "PHO",
+   "slots": [
+    "C"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 21.3,
+   "avg_last7": 17.0,
+   "avg_last15": 21.3,
+   "gp_proxy_total": 106.5
+  },
+  {
+   "id": 5149077,
+   "name": "Kingston Flemings",
+   "pos": "SG",
+   "nba_team": "ATL",
+   "slots": [
+    "SG",
+    "PG"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 20.36,
+   "avg_last7": 32.0,
+   "avg_last15": 20.36,
+   "gp_proxy_total": 142.5
+  },
+  {
+   "id": 3150844,
+   "name": "Moritz Wagner",
+   "pos": "C",
+   "nba_team": "BKN",
+   "slots": [
+    "C"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 21.29,
+   "avg_last7": 24.17,
+   "avg_last15": 21.29,
+   "gp_proxy_total": 149.0
+  },
+  {
+   "id": 5041951,
+   "name": "Meleek Thomas",
+   "pos": "SG",
+   "nba_team": "CLE",
+   "slots": [
+    "SG"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 25.88,
+   "avg_last7": 26.0,
+   "avg_last15": 25.88,
+   "gp_proxy_total": 103.5
+  },
+  {
+   "id": 4433137,
+   "name": "Ziaire Williams",
+   "pos": "SF",
+   "nba_team": "LAL",
+   "slots": [
+    "SG",
+    "SF"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 27.6,
+   "avg_last7": 22.0,
+   "avg_last15": 27.6,
+   "gp_proxy_total": 138.0
+  },
+  {
+   "id": 4684793,
+   "name": "Kyle Filipowski",
+   "pos": "C",
+   "nba_team": "UTA",
+   "slots": [
+    "PF",
+    "C"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 3.0,
+   "avg_last7": 8.0,
+   "avg_last15": 3.0,
+   "gp_proxy_total": 15.0
+  },
+  {
+   "id": 4997538,
+   "name": "Karlo Matkovic",
+   "pos": "PF",
+   "nba_team": "NOP",
+   "slots": [
+    "PF"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 25.08,
+   "avg_last7": 30.38,
+   "avg_last15": 25.08,
+   "gp_proxy_total": 150.5
+  },
+  {
+   "id": 2528210,
+   "name": "Tim Hardaway Jr.",
+   "pos": "SG",
+   "nba_team": "MIA",
+   "slots": [
+    "SG",
+    "SF"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 10.21,
+   "avg_last7": 12.67,
+   "avg_last15": 10.21,
+   "gp_proxy_total": 71.5
+  },
+  {
+   "id": 4698719,
+   "name": "Trevon Brazile",
+   "pos": "SF",
+   "nba_team": "DEN",
+   "slots": [
+    "SF",
+    "PF"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 22.67,
+   "avg_last7": 23.83,
+   "avg_last15": 22.67,
+   "gp_proxy_total": 136.0
+  },
+  {
+   "id": 4592829,
+   "name": "Quenton Jackson",
+   "pos": "PG",
+   "nba_team": "IND",
+   "slots": [
+    "PG",
+    "SG"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 24.12,
+   "avg_last7": 30.75,
+   "avg_last15": 24.12,
+   "gp_proxy_total": 193.0
+  },
+  {
+   "id": 4277919,
+   "name": "Mo Bamba",
+   "pos": "C",
+   "nba_team": "UTA",
+   "slots": [
+    "C"
+   ],
+   "injury": "DAY_TO_DAY",
+   "lineup_slot": "",
+   "avg_fp_espn": 28.12,
+   "avg_last7": 21.67,
+   "avg_last15": 28.12,
+   "gp_proxy_total": 112.5
+  },
+  {
+   "id": 4683766,
+   "name": "Isaiah Collier",
+   "pos": "PG",
+   "nba_team": "UTA",
+   "slots": [
+    "PG"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 16.86,
+   "avg_last7": 14.67,
+   "avg_last15": 16.86,
+   "gp_proxy_total": 118.0
+  },
+  {
+   "id": 5279130,
+   "name": "Nolan Traore",
+   "pos": "PG",
+   "nba_team": "BKN",
+   "slots": [
+    "PG"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 23.14,
+   "avg_last7": 30.0,
+   "avg_last15": 23.14,
+   "gp_proxy_total": 162.0
+  },
+  {
+   "id": 4396909,
+   "name": "Aaron Nesmith",
+   "pos": "SF",
+   "nba_team": "IND",
+   "slots": [
+    "SG",
+    "SF"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 17.5,
+   "avg_last7": 19.83,
+   "avg_last15": 17.5,
+   "gp_proxy_total": 105.0
+  },
+  {
+   "id": 4873153,
+   "name": "Morez Johnson Jr.",
+   "pos": "PF",
+   "nba_team": "DAL",
+   "slots": [
+    "PF",
+    "C"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 14.57,
+   "avg_last7": 20.0,
+   "avg_last15": 14.57,
+   "gp_proxy_total": 102.0
+  },
+  {
+   "id": 5082206,
+   "name": "Brayden Burries",
+   "pos": "SG",
+   "nba_team": "MIL",
+   "slots": [
+    "SG"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 17.57,
+   "avg_last7": 22.17,
+   "avg_last15": 17.57,
+   "gp_proxy_total": 123.0
+  },
+  {
+   "id": 4683774,
+   "name": "Bronny James",
+   "pos": "PG",
+   "nba_team": "LAL",
+   "slots": [
+    "PG",
+    "SG"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 1.25,
+   "avg_last7": 1.33,
+   "avg_last15": 1.25,
+   "gp_proxy_total": 5.0
+  },
+  {
+   "id": 4432241,
+   "name": "Jamal Shead",
+   "pos": "PG",
+   "nba_team": "TOR",
+   "slots": [
+    "PG"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 20.86,
+   "avg_last7": 27.75,
+   "avg_last15": 20.86,
+   "gp_proxy_total": 146.0
+  },
+  {
+   "id": 4397020,
+   "name": "Luguentz Dort",
+   "pos": "SG",
+   "nba_team": "ATL",
+   "slots": [
+    "SG",
+    "SF"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 18.0,
+   "avg_last7": 18.62,
+   "avg_last15": 18.0,
+   "gp_proxy_total": 144.0
+  },
+  {
+   "id": 4065804,
+   "name": "Sam Hauser",
+   "pos": "SF",
+   "nba_team": "BOS",
+   "slots": [
+    "SF",
+    "PF"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 15.43,
+   "avg_last7": 10.5,
+   "avg_last15": 15.43,
+   "gp_proxy_total": 108.0
+  },
+  {
+   "id": 4683747,
+   "name": "Jaylon Tyson",
+   "pos": "SG",
+   "nba_team": "CLE",
+   "slots": [
+    "SG",
+    "SF"
+   ],
+   "injury": "OUT",
+   "lineup_slot": "",
+   "avg_fp_espn": 19.0,
+   "avg_last7": 11.5,
+   "avg_last15": 19.0,
+   "gp_proxy_total": 95.0
+  },
+  {
+   "id": 2581018,
+   "name": "Kentavious Caldwell-Pope",
+   "pos": "SG",
+   "nba_team": "PHL",
+   "slots": [
+    "SG",
+    "SF"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 16.62,
+   "avg_last7": 11.38,
+   "avg_last15": 16.62,
+   "gp_proxy_total": 133.0
+  },
+  {
+   "id": 4065778,
+   "name": "Max Strus",
+   "pos": "SF",
+   "nba_team": "LAC",
+   "slots": [
+    "SF"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 28.5,
+   "avg_last7": 28.5,
+   "avg_last15": 28.5,
+   "gp_proxy_total": 28.5
+  },
+  {
+   "id": 5107173,
+   "name": "Danny Wolf",
+   "pos": "PF",
+   "nba_team": "BKN",
+   "slots": [
+    "PF",
+    "C"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 14.5,
+   "avg_last7": 19.0,
+   "avg_last15": 14.5,
+   "gp_proxy_total": 29.0
+  },
+  {
+   "id": 2990992,
+   "name": "Marcus Smart",
+   "pos": "SG",
+   "nba_team": "HOU",
+   "slots": [
+    "PG",
+    "SG"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 25.0,
+   "avg_last7": 33.33,
+   "avg_last15": 25.0,
+   "gp_proxy_total": 125.0
+  },
+  {
+   "id": 5106060,
+   "name": "Jarace Walker",
+   "pos": "PF",
+   "nba_team": "IND",
+   "slots": [
+    "SF",
+    "PF"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 20.19,
+   "avg_last7": 25.88,
+   "avg_last15": 20.19,
+   "gp_proxy_total": 161.5
+  },
+  {
+   "id": 4432823,
+   "name": "Jaylin Williams",
+   "pos": "C",
+   "nba_team": "OKC",
+   "slots": [
+    "PF",
+    "C"
+   ],
+   "injury": "DAY_TO_DAY",
+   "lineup_slot": "",
+   "avg_fp_espn": 9.29,
+   "avg_last7": 7.5,
+   "avg_last15": 9.29,
+   "gp_proxy_total": 65.0
+  },
+  {
+   "id": 4702177,
+   "name": "Keon Ellis",
+   "pos": "SG",
+   "nba_team": "BKN",
+   "slots": [
+    "SG",
+    "SF"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 19.0,
+   "avg_last7": 12.0,
+   "avg_last15": 19.0,
+   "gp_proxy_total": 133.0
+  },
+  {
+   "id": 4432582,
+   "name": "Max Christie",
+   "pos": "SG",
+   "nba_team": "DAL",
+   "slots": [
+    "SG"
+   ],
+   "injury": "OUT",
+   "lineup_slot": "",
+   "avg_fp_espn": 14.36,
+   "avg_last7": 8.33,
+   "avg_last15": 14.36,
+   "gp_proxy_total": 100.5
+  },
+  {
+   "id": 4845374,
+   "name": "Bub Carrington",
+   "pos": "PG",
+   "nba_team": "WAS",
+   "slots": [
+    "PG",
+    "SG"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 15.57,
+   "avg_last7": 16.83,
+   "avg_last15": 15.57,
+   "gp_proxy_total": 109.0
+  },
+  {
+   "id": 5279133,
+   "name": "Joan Beringer",
+   "pos": "C",
+   "nba_team": "MIN",
+   "slots": [
+    "C"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 24.38,
+   "avg_last7": 26.75,
+   "avg_last15": 24.38,
+   "gp_proxy_total": 195.0
+  },
+  {
+   "id": 4592492,
+   "name": "Bones Hyland",
+   "pos": "PG",
+   "nba_team": "MIN",
+   "slots": [
+    "PG"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 18.5,
+   "avg_last7": 27.88,
+   "avg_last15": 18.5,
+   "gp_proxy_total": 148.0
+  },
+  {
+   "id": 4278402,
+   "name": "Jordan Goodwin",
+   "pos": "PG",
+   "nba_team": "PHO",
+   "slots": [
+    "PG",
+    "SG"
+   ],
+   "injury": "DAY_TO_DAY",
+   "lineup_slot": "",
+   "avg_fp_espn": 25.3,
+   "avg_last7": 25.5,
+   "avg_last15": 25.3,
+   "gp_proxy_total": 126.5
+  },
+  {
+   "id": 3934673,
+   "name": "Donte DiVincenzo",
+   "pos": "SG",
+   "nba_team": "MIN",
+   "slots": [
+    "PG",
+    "SG"
+   ],
+   "injury": "OUT",
+   "lineup_slot": "",
+   "avg_fp_espn": 0.0,
+   "avg_last7": 0.0,
+   "avg_last15": 0.0,
+   "gp_proxy_total": 0.0
+  },
+  {
+   "id": 3468,
+   "name": "Russell Westbrook",
+   "pos": "PG",
+   "nba_team": "FA",
+   "slots": [
+    "PG"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 0.0,
+   "avg_last7": 0.0,
+   "avg_last15": 0.0,
+   "gp_proxy_total": 0.0
+  },
+  {
+   "id": 4397040,
+   "name": "Brandon Williams",
+   "pos": "PG",
+   "nba_team": "GSW",
+   "slots": [
+    "PG",
+    "SG"
+   ],
+   "injury": "DAY_TO_DAY",
+   "lineup_slot": "",
+   "avg_fp_espn": 20.93,
+   "avg_last7": 20.0,
+   "avg_last15": 20.93,
+   "gp_proxy_total": 146.5
+  },
+  {
+   "id": 4576060,
+   "name": "Ryan Kalkbrenner",
+   "pos": "C",
+   "nba_team": "CHA",
+   "slots": [
+    "C"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 21.12,
+   "avg_last7": 17.62,
+   "avg_last15": 21.12,
+   "gp_proxy_total": 169.0
+  },
+  {
+   "id": 5105550,
+   "name": "GG Jackson",
+   "pos": "PF",
+   "nba_team": "MEM",
+   "slots": [
+    "PF"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 13.71,
+   "avg_last7": 20.33,
+   "avg_last15": 13.71,
+   "gp_proxy_total": 96.0
+  },
+  {
+   "id": 6580,
+   "name": "Bradley Beal",
+   "pos": "SF",
+   "nba_team": "LAC",
+   "slots": [
+    "SG",
+    "SF"
+   ],
+   "injury": "OUT",
+   "lineup_slot": "",
+   "avg_fp_espn": 0.0,
+   "avg_last7": 0.0,
+   "avg_last15": 0.0,
+   "gp_proxy_total": 0.0
+  },
+  {
+   "id": 5238230,
+   "name": "Tre Johnson",
+   "pos": "SG",
+   "nba_team": "WAS",
+   "slots": [
+    "SG"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 13.33,
+   "avg_last7": 2.0,
+   "avg_last15": 13.33,
+   "gp_proxy_total": 80.0
+  },
+  {
+   "id": 5214640,
+   "name": "Kasparas Jakucionis",
+   "pos": "PG",
+   "nba_team": "MIL",
+   "slots": [
+    "PG"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 18.36,
+   "avg_last7": 10.83,
+   "avg_last15": 18.36,
+   "gp_proxy_total": 128.5
+  },
+  {
+   "id": 4896372,
+   "name": "Walter Clayton Jr.",
+   "pos": "SG",
+   "nba_team": "DAL",
+   "slots": [
+    "PG",
+    "SG"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 16.42,
+   "avg_last7": 14.5,
+   "avg_last15": 16.42,
+   "gp_proxy_total": 98.5
+  },
+  {
+   "id": 5105839,
+   "name": "Brice Sensabaugh",
+   "pos": "SF",
+   "nba_team": "UTA",
+   "slots": [
+    "SG",
+    "SF"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 14.79,
+   "avg_last7": 15.83,
+   "avg_last15": 14.79,
+   "gp_proxy_total": 103.5
+  },
+  {
+   "id": 4277813,
+   "name": "Herbert Jones",
+   "pos": "SF",
+   "nba_team": "NOP",
+   "slots": [
+    "SF",
+    "PF"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 15.36,
+   "avg_last7": 20.88,
+   "avg_last15": 15.36,
+   "gp_proxy_total": 107.5
+  },
+  {
+   "id": 4898371,
+   "name": "Maxime Raynaud",
+   "pos": "C",
+   "nba_team": "SAC",
+   "slots": [
+    "C"
+   ],
+   "injury": "OUT",
+   "lineup_slot": "",
+   "avg_fp_espn": 0.0,
+   "avg_last7": 0.0,
+   "avg_last15": 0.0,
+   "gp_proxy_total": 0.0
+  },
+  {
+   "id": 2583632,
+   "name": "Royce O'Neale",
+   "pos": "SF",
+   "nba_team": "CHA",
+   "slots": [
+    "SF",
+    "PF"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 11.19,
+   "avg_last7": 13.38,
+   "avg_last15": 11.19,
+   "gp_proxy_total": 89.5
+  },
+  {
+   "id": 4432907,
+   "name": "Justin Champagnie",
+   "pos": "SF",
+   "nba_team": "WAS",
+   "slots": [
+    "SF",
+    "PF"
+   ],
+   "injury": "OUT",
+   "lineup_slot": "",
+   "avg_fp_espn": 25.0,
+   "avg_last7": 0,
+   "avg_last15": 25.0,
+   "gp_proxy_total": 100.0
+  },
+  {
+   "id": 5106258,
+   "name": "Gradey Dick",
+   "pos": "SG",
+   "nba_team": "LAC",
+   "slots": [
+    "SG",
+    "SF"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 12.86,
+   "avg_last7": 10.62,
+   "avg_last15": 12.86,
+   "gp_proxy_total": 90.0
+  },
+  {
+   "id": 2779,
+   "name": "Chris Paul",
+   "pos": "PG",
+   "nba_team": "FA",
+   "slots": [
+    "PG"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 0.0,
+   "avg_last7": 0.0,
+   "avg_last15": 0.0,
+   "gp_proxy_total": 0.0
+  },
+  {
+   "id": 4997528,
+   "name": "Nikola Jovic",
+   "pos": "PF",
+   "nba_team": "MIA",
+   "slots": [
+    "PF"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 9.58,
+   "avg_last7": 8.33,
+   "avg_last15": 9.58,
+   "gp_proxy_total": 57.5
+  },
+  {
+   "id": 3213,
+   "name": "Al Horford",
+   "pos": "C",
+   "nba_team": "GSW",
+   "slots": [
+    "PF",
+    "C"
+   ],
+   "injury": "DAY_TO_DAY",
+   "lineup_slot": "",
+   "avg_fp_espn": 14.08,
+   "avg_last7": 13.33,
+   "avg_last15": 14.08,
+   "gp_proxy_total": 84.5
+  },
+  {
+   "id": 4066372,
+   "name": "Kevin Huerter",
+   "pos": "SG",
+   "nba_team": "DET",
+   "slots": [
+    "SG",
+    "SF"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 16.5,
+   "avg_last7": 18.17,
+   "avg_last15": 16.5,
+   "gp_proxy_total": 115.5
+  },
+  {
+   "id": 3912848,
+   "name": "Dean Wade",
+   "pos": "PF",
+   "nba_team": "PHL",
+   "slots": [
+    "PF"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 23.75,
+   "avg_last7": 21.62,
+   "avg_last15": 23.75,
+   "gp_proxy_total": 142.5
+  },
+  {
+   "id": 4431823,
+   "name": "Miles McBride",
+   "pos": "SG",
+   "nba_team": "NYK",
+   "slots": [
+    "PG",
+    "SG"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 16.21,
+   "avg_last7": 18.5,
+   "avg_last15": 16.21,
+   "gp_proxy_total": 113.5
+  },
+  {
+   "id": 3913174,
+   "name": "Luke Kennard",
+   "pos": "SG",
+   "nba_team": "PHO",
+   "slots": [
+    "SG"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 18.0,
+   "avg_last7": 13.25,
+   "avg_last15": 18.0,
+   "gp_proxy_total": 72.0
+  },
+  {
+   "id": 4997536,
+   "name": "Gui Santos",
+   "pos": "SF",
+   "nba_team": "GSW",
+   "slots": [
+    "SF"
+   ],
+   "injury": "DAY_TO_DAY",
+   "lineup_slot": "",
+   "avg_fp_espn": 17.75,
+   "avg_last7": 8.5,
+   "avg_last15": 17.75,
+   "gp_proxy_total": 106.5
+  },
+  {
+   "id": 4277869,
+   "name": "Jose Alvarado",
+   "pos": "PG",
+   "nba_team": "NYK",
+   "slots": [
+    "PG"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 11.0,
+   "avg_last7": 3.0,
+   "avg_last15": 11.0,
+   "gp_proxy_total": 33.0
+  },
+  {
+   "id": 4065731,
+   "name": "Jay Huff",
+   "pos": "C",
+   "nba_team": "IND",
+   "slots": [
+    "C"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 18.36,
+   "avg_last7": 19.5,
+   "avg_last15": 18.36,
+   "gp_proxy_total": 128.5
+  },
+  {
+   "id": 4702352,
+   "name": "Kobe Sanders",
+   "pos": "SG",
+   "nba_team": "LAC",
+   "slots": [
+    "SG"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 23.86,
+   "avg_last7": 28.0,
+   "avg_last15": 23.86,
+   "gp_proxy_total": 167.0
+  },
+  {
+   "id": 4066757,
+   "name": "Sam Merrill",
+   "pos": "SG",
+   "nba_team": "CLE",
+   "slots": [
+    "SG"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 20.21,
+   "avg_last7": 20.75,
+   "avg_last15": 20.21,
+   "gp_proxy_total": 141.5
+  },
+  {
+   "id": 4395702,
+   "name": "Isaiah Joe",
+   "pos": "SG",
+   "nba_team": "DET",
+   "slots": [
+    "SG"
+   ],
+   "injury": "OUT",
+   "lineup_slot": "",
+   "avg_fp_espn": 11.17,
+   "avg_last7": 0,
+   "avg_last15": 11.17,
+   "gp_proxy_total": 33.5
+  },
+  {
+   "id": 3907387,
+   "name": "Ben Simmons",
+   "pos": "PG",
+   "nba_team": "SAC",
+   "slots": [
+    "PG"
+   ],
+   "injury": "OUT",
+   "lineup_slot": "",
+   "avg_fp_espn": 0.0,
+   "avg_last7": 0.0,
+   "avg_last15": 0.0,
+   "gp_proxy_total": 0.0
+  },
+  {
+   "id": 2995706,
+   "name": "Mario Hezonja",
+   "pos": "SF",
+   "nba_team": "CLE",
+   "slots": [
+    "SF"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 23.36,
+   "avg_last7": 28.25,
+   "avg_last15": 23.36,
+   "gp_proxy_total": 163.5
+  },
+  {
+   "id": 5061568,
+   "name": "Carter Bryant",
+   "pos": "SF",
+   "nba_team": "SAS",
+   "slots": [
+    "SF"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 4.36,
+   "avg_last7": 6.0,
+   "avg_last15": 4.36,
+   "gp_proxy_total": 30.5
+  },
+  {
+   "id": 4873090,
+   "name": "Labaron Philon Jr.",
+   "pos": "PG",
+   "nba_team": "PHL",
+   "slots": [
+    "PG",
+    "SG"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 2.8,
+   "avg_last7": 1.67,
+   "avg_last15": 2.8,
+   "gp_proxy_total": 14.0
+  },
+  {
+   "id": 4683771,
+   "name": "Ronald Holland II",
+   "pos": "SF",
+   "nba_team": "DET",
+   "slots": [
+    "SF",
+    "PF"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 19.57,
+   "avg_last7": 17.83,
+   "avg_last15": 19.57,
+   "gp_proxy_total": 137.0
+  },
+  {
+   "id": 3064560,
+   "name": "Luke Kornet",
+   "pos": "C",
+   "nba_team": "SAS",
+   "slots": [
+    "C"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 13.43,
+   "avg_last7": 21.83,
+   "avg_last15": 13.43,
+   "gp_proxy_total": 94.0
+  },
+  {
+   "id": 4683689,
+   "name": "Jordan Walsh",
+   "pos": "SF",
+   "nba_team": "BOS",
+   "slots": [
+    "SF"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 13.43,
+   "avg_last7": 5.67,
+   "avg_last15": 13.43,
+   "gp_proxy_total": 94.0
+  },
+  {
+   "id": 3914044,
+   "name": "Landry Shamet",
+   "pos": "SG",
+   "nba_team": "NYK",
+   "slots": [
+    "SG"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 17.57,
+   "avg_last7": 22.83,
+   "avg_last15": 17.57,
+   "gp_proxy_total": 123.0
+  },
+  {
+   "id": 4593841,
+   "name": "Baylor Scheierman",
+   "pos": "SG",
+   "nba_team": "BOS",
+   "slots": [
+    "SG"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 14.21,
+   "avg_last7": 20.33,
+   "avg_last15": 14.21,
+   "gp_proxy_total": 99.5
+  },
+  {
+   "id": 2596112,
+   "name": "Javonte Green",
+   "pos": "SF",
+   "nba_team": "DET",
+   "slots": [
+    "SF"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 15.57,
+   "avg_last7": 16.67,
+   "avg_last15": 15.57,
+   "gp_proxy_total": 109.0
+  },
+  {
+   "id": 4702384,
+   "name": "Nique Clifford",
+   "pos": "SG",
+   "nba_team": "SAC",
+   "slots": [
+    "SG",
+    "SF"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 3.25,
+   "avg_last7": 2.33,
+   "avg_last15": 3.25,
+   "gp_proxy_total": 19.5
+  },
+  {
+   "id": 5175647,
+   "name": "Hugo Gonzalez",
+   "pos": "SF",
+   "nba_team": "BOS",
+   "slots": [
+    "SF"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 10.36,
+   "avg_last7": 14.33,
+   "avg_last15": 10.36,
+   "gp_proxy_total": 72.5
+  },
+  {
+   "id": 4397475,
+   "name": "AJ Green",
+   "pos": "SG",
+   "nba_team": "MIL",
+   "slots": [
+    "SG"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 14.64,
+   "avg_last7": 15.5,
+   "avg_last15": 14.64,
+   "gp_proxy_total": 102.5
+  },
+  {
+   "id": 5281370,
+   "name": "Hannes Steinbach",
+   "pos": "PF",
+   "nba_team": "CHA",
+   "slots": [
+    "PF"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 5.0,
+   "avg_last7": 0.5,
+   "avg_last15": 5.0,
+   "gp_proxy_total": 15.0
+  },
+  {
+   "id": 5149115,
+   "name": "Allen Graves",
+   "pos": "SF",
+   "nba_team": "TOR",
+   "slots": [
+    "SF"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 15.93,
+   "avg_last7": 7.25,
+   "avg_last15": 15.93,
+   "gp_proxy_total": 111.5
+  },
+  {
+   "id": 3146557,
+   "name": "Jock Landale",
+   "pos": "C",
+   "nba_team": "ATL",
+   "slots": [
+    "C"
+   ],
+   "injury": "OUT",
+   "lineup_slot": "",
+   "avg_fp_espn": 17.5,
+   "avg_last7": 13.0,
+   "avg_last15": 17.5,
+   "gp_proxy_total": 122.5
+  },
+  {
+   "id": 4277848,
+   "name": "Marvin Bagley III",
+   "pos": "PF",
+   "nba_team": "DEN",
+   "slots": [
+    "PF",
+    "C"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 12.75,
+   "avg_last7": 14.67,
+   "avg_last15": 12.75,
+   "gp_proxy_total": 76.5
+  }
+ ],
+ "games": [],
+ "last_night": []
+}
