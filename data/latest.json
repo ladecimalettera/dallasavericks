@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-04T16:38+00:00",
+ "generated_utc": "2026-11-04T16:47+00:00",
  "nba_date": "20261103",
  "errors": [],
  "teams": [
@@ -144,7 +144,7 @@
       "C"
      ],
      "injury": "ACTIVE",
-     "lineup_slot": "UT",
+     "lineup_slot": "BE",
      "avg_fp_espn": 25.17,
      "avg_last7": 22.33,
      "avg_last15": 25.17,
@@ -207,7 +207,7 @@
       "SG"
      ],
      "injury": "ACTIVE",
-     "lineup_slot": "BE",
+     "lineup_slot": "UT",
      "avg_fp_espn": 33.92,
      "avg_last7": 36.5,
      "avg_last15": 33.92,
