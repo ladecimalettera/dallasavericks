@@ -1,0 +1,31 @@
+name: dati-espn-mattina
+
+on:
+  schedule:
+    - cron: "35 5 * * *"   # 6:35 in Italia d'inverno (7:35 d'estate). GitHub puo' ritardare di qualche minuto.
+  workflow_dispatch: {}      # bottone "Run workflow" per lanciarlo a mano
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install espn-api==1.0.1 requests
+      - run: python fetch.py
+        env:
+          ESPN_S2: ${{ secrets.ESPN_S2 }}
+          SWID: ${{ secrets.SWID }}
+          LEAGUE_ID: ${{ secrets.LEAGUE_ID }}
+      - name: Salva il file
+        run: |
+          git config user.name "fanta-bot"
+          git config user.email "fanta-bot@users.noreply.github.com"
+          git add data/latest.json
+          git commit -m "dati $(date -u +%F)" || echo "nessuna modifica"
+          git push
