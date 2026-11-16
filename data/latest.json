@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-16T05:32+00:00",
+ "generated_utc": "2026-11-16T06:15+00:00",
  "nba_date": "20261115",
  "errors": [],
  "teams": [
@@ -67,8 +67,8 @@
      "injury": "OUT",
      "lineup_slot": "IR",
      "avg_fp_espn": 45.75,
-     "avg_last7": 0,
-     "avg_last15": 0,
+     "avg_last7": 0.0,
+     "avg_last15": 0.0,
      "gp_proxy_total": 91.5
     },
     {
@@ -99,7 +99,7 @@
      "injury": "OUT",
      "lineup_slot": "PF",
      "avg_fp_espn": 32.88,
-     "avg_last7": 0,
+     "avg_last7": 0.0,
      "avg_last15": 39.5,
      "gp_proxy_total": 263.0
     },
@@ -115,8 +115,8 @@
      "injury": "OUT",
      "lineup_slot": "IR",
      "avg_fp_espn": 26.75,
-     "avg_last7": 0,
-     "avg_last15": 0,
+     "avg_last7": 0.0,
+     "avg_last15": 0.0,
      "gp_proxy_total": 107.0
     },
     {
@@ -295,8 +295,8 @@
      "injury": "OUT",
      "lineup_slot": "IR",
      "avg_fp_espn": 41.25,
-     "avg_last7": 0,
-     "avg_last15": 0,
+     "avg_last7": 0.0,
+     "avg_last15": 0.0,
      "gp_proxy_total": 82.5
     },
     {
@@ -327,8 +327,8 @@
      "injury": "OUT",
      "lineup_slot": "IR",
      "avg_fp_espn": 41.33,
-     "avg_last7": 0,
-     "avg_last15": 0,
+     "avg_last7": 0.0,
+     "avg_last15": 0.0,
      "gp_proxy_total": 124.0
     },
     {
@@ -735,8 +735,8 @@
      "injury": "OUT",
      "lineup_slot": "IR",
      "avg_fp_espn": 52.0,
-     "avg_last7": 0,
-     "avg_last15": 0,
+     "avg_last7": 0.0,
+     "avg_last15": 0.0,
      "gp_proxy_total": 208.0
     },
     {
@@ -997,8 +997,8 @@
      "injury": "OUT",
      "lineup_slot": "IR",
      "avg_fp_espn": 52.0,
-     "avg_last7": 0,
-     "avg_last15": 0,
+     "avg_last7": 0.0,
+     "avg_last15": 0.0,
      "gp_proxy_total": 208.0
     },
     {
@@ -1236,8 +1236,8 @@
      "injury": "OUT",
      "lineup_slot": "IR",
      "avg_fp_espn": 34.5,
-     "avg_last7": 0,
-     "avg_last15": 0,
+     "avg_last7": 0.0,
+     "avg_last15": 0.0,
      "gp_proxy_total": 69.0
     },
     {
@@ -1556,8 +1556,8 @@
      "injury": "OUT",
      "lineup_slot": "IR",
      "avg_fp_espn": 34.12,
-     "avg_last7": 0,
-     "avg_last15": 0,
+     "avg_last7": 0.0,
+     "avg_last15": 0.0,
      "gp_proxy_total": 136.5
     },
     {
@@ -1719,8 +1719,8 @@
      "injury": "OUT",
      "lineup_slot": "IR",
      "avg_fp_espn": 26.33,
-     "avg_last7": 0,
-     "avg_last15": 0,
+     "avg_last7": 0.0,
+     "avg_last15": 0.0,
      "gp_proxy_total": 79.0
     },
     {
@@ -2201,7 +2201,7 @@
      "injury": "OUT",
      "lineup_slot": "IR",
      "avg_fp_espn": -2.0,
-     "avg_last7": 0,
+     "avg_last7": 0.0,
      "avg_last15": -2.0,
      "gp_proxy_total": -2.0
     },
