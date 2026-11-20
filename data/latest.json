@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-20T05:00+00:00",
+ "generated_utc": "2026-11-20T06:08+00:00",
  "nba_date": "20261119",
  "errors": [],
  "teams": [
@@ -3965,21 +3965,6 @@
    "gp_proxy_total": 303.0
   },
   {
-   "id": 4684806,
-   "name": "Taylor Hendricks",
-   "pos": "PF",
-   "nba_team": "MEM",
-   "slots": [
-    "PF"
-   ],
-   "injury": "ACTIVE",
-   "lineup_slot": "",
-   "avg_fp_espn": 18.91,
-   "avg_last7": 31.2,
-   "avg_last15": 24.75,
-   "gp_proxy_total": 208.0
-  },
-  {
    "id": 4684793,
    "name": "Kyle Filipowski",
    "pos": "C",
@@ -3994,6 +3979,21 @@
    "avg_last7": 1.5,
    "avg_last15": 5.9,
    "gp_proxy_total": 44.5
+  },
+  {
+   "id": 4684806,
+   "name": "Taylor Hendricks",
+   "pos": "PF",
+   "nba_team": "MEM",
+   "slots": [
+    "PF"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 18.91,
+   "avg_last7": 31.2,
+   "avg_last15": 24.75,
+   "gp_proxy_total": 208.0
   },
   {
    "id": 4396909,
@@ -4123,21 +4123,6 @@
    "gp_proxy_total": 285.5
   },
   {
-   "id": 5279133,
-   "name": "Joan Beringer",
-   "pos": "C",
-   "nba_team": "MIN",
-   "slots": [
-    "C"
-   ],
-   "injury": "ACTIVE",
-   "lineup_slot": "",
-   "avg_fp_espn": 20.66,
-   "avg_last7": 20.0,
-   "avg_last15": 16.94,
-   "gp_proxy_total": 330.5
-  },
-  {
    "id": 4683747,
    "name": "Jaylon Tyson",
    "pos": "SG",
@@ -4154,20 +4139,19 @@
    "gp_proxy_total": 156.0
   },
   {
-   "id": 4896372,
-   "name": "Walter Clayton Jr.",
-   "pos": "SG",
-   "nba_team": "DAL",
+   "id": 5279133,
+   "name": "Joan Beringer",
+   "pos": "C",
+   "nba_team": "MIN",
    "slots": [
-    "PG",
-    "SG"
+    "C"
    ],
    "injury": "ACTIVE",
    "lineup_slot": "",
-   "avg_fp_espn": 17.82,
-   "avg_last7": 13.25,
-   "avg_last15": 18.88,
-   "gp_proxy_total": 249.5
+   "avg_fp_espn": 20.66,
+   "avg_last7": 20.0,
+   "avg_last15": 16.94,
+   "gp_proxy_total": 330.5
   },
   {
    "id": 2995706,
@@ -4183,6 +4167,22 @@
    "avg_last7": 28.0,
    "avg_last15": 20.78,
    "gp_proxy_total": 350.5
+  },
+  {
+   "id": 4896372,
+   "name": "Walter Clayton Jr.",
+   "pos": "SG",
+   "nba_team": "DAL",
+   "slots": [
+    "PG",
+    "SG"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 17.82,
+   "avg_last7": 13.25,
+   "avg_last15": 18.88,
+   "gp_proxy_total": 249.5
   },
   {
    "id": 4576060,
@@ -4356,22 +4356,6 @@
    "gp_proxy_total": 0.0
   },
   {
-   "id": 4897262,
-   "name": "Will Richard",
-   "pos": "SG",
-   "nba_team": "GSW",
-   "slots": [
-    "SG",
-    "SF"
-   ],
-   "injury": "ACTIVE",
-   "lineup_slot": "",
-   "avg_fp_espn": 16.8,
-   "avg_last7": 26.62,
-   "avg_last15": 21.79,
-   "gp_proxy_total": 252.0
-  },
-  {
    "id": 4397886,
    "name": "Charles Bassey",
    "pos": "C",
@@ -4417,6 +4401,22 @@
    "avg_last7": 18.25,
    "avg_last15": 14.5,
    "gp_proxy_total": 238.0
+  },
+  {
+   "id": 4897262,
+   "name": "Will Richard",
+   "pos": "SG",
+   "nba_team": "GSW",
+   "slots": [
+    "SG",
+    "SF"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 16.8,
+   "avg_last7": 26.62,
+   "avg_last15": 21.79,
+   "gp_proxy_total": 252.0
   },
   {
    "id": 5238230,
@@ -4588,21 +4588,6 @@
    "gp_proxy_total": 87.0
   },
   {
-   "id": 3913174,
-   "name": "Luke Kennard",
-   "pos": "SG",
-   "nba_team": "PHO",
-   "slots": [
-    "SG"
-   ],
-   "injury": "ACTIVE",
-   "lineup_slot": "",
-   "avg_fp_espn": 16.69,
-   "avg_last7": 20.0,
-   "avg_last15": 16.11,
-   "gp_proxy_total": 217.0
-  },
-  {
    "id": 4432822,
    "name": "Isaac Okoro",
    "pos": "SF",
@@ -4617,6 +4602,21 @@
    "avg_last7": 31.62,
    "avg_last15": 23.5,
    "gp_proxy_total": 231.5
+  },
+  {
+   "id": 3913174,
+   "name": "Luke Kennard",
+   "pos": "SG",
+   "nba_team": "PHO",
+   "slots": [
+    "SG"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 16.69,
+   "avg_last7": 20.0,
+   "avg_last15": 16.11,
+   "gp_proxy_total": 217.0
   },
   {
    "id": 4277869,
@@ -4695,6 +4695,21 @@
    "gp_proxy_total": 264.0
   },
   {
+   "id": 3138160,
+   "name": "Caleb Martin",
+   "pos": "SG",
+   "nba_team": "DAL",
+   "slots": [
+    "SG"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 18.59,
+   "avg_last7": 32.62,
+   "avg_last15": 20.44,
+   "gp_proxy_total": 204.5
+  },
+  {
    "id": 4432907,
    "name": "Justin Champagnie",
    "pos": "SF",
@@ -4709,21 +4724,6 @@
    "avg_last7": 0,
    "avg_last15": 0,
    "gp_proxy_total": 100.0
-  },
-  {
-   "id": 3138160,
-   "name": "Caleb Martin",
-   "pos": "SG",
-   "nba_team": "DAL",
-   "slots": [
-    "SG"
-   ],
-   "injury": "ACTIVE",
-   "lineup_slot": "",
-   "avg_fp_espn": 18.59,
-   "avg_last7": 32.62,
-   "avg_last15": 20.44,
-   "gp_proxy_total": 204.5
   },
   {
    "id": 4997538,
@@ -4741,21 +4741,6 @@
    "gp_proxy_total": 251.0
   },
   {
-   "id": 5061568,
-   "name": "Carter Bryant",
-   "pos": "SF",
-   "nba_team": "SAS",
-   "slots": [
-    "SF"
-   ],
-   "injury": "ACTIVE",
-   "lineup_slot": "",
-   "avg_fp_espn": 6.8,
-   "avg_last7": 5.62,
-   "avg_last15": 8.94,
-   "gp_proxy_total": 102.0
-  },
-  {
    "id": 2990984,
    "name": "Buddy Hield",
    "pos": "SG",
@@ -4770,6 +4755,21 @@
    "avg_last7": 24.25,
    "avg_last15": 22.7,
    "gp_proxy_total": 201.0
+  },
+  {
+   "id": 5061568,
+   "name": "Carter Bryant",
+   "pos": "SF",
+   "nba_team": "SAS",
+   "slots": [
+    "SF"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 6.8,
+   "avg_last7": 5.62,
+   "avg_last15": 8.94,
+   "gp_proxy_total": 102.0
   },
   {
    "id": 4702177,
@@ -4818,6 +4818,21 @@
    "gp_proxy_total": 0.0
   },
   {
+   "id": 3133626,
+   "name": "Kenrich Williams",
+   "pos": "SF",
+   "nba_team": "OKC",
+   "slots": [
+    "SF"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 18.23,
+   "avg_last7": 32.17,
+   "avg_last15": 22.12,
+   "gp_proxy_total": 273.5
+  },
+  {
    "id": 4873090,
    "name": "Labaron Philon Jr.",
    "pos": "PG",
@@ -4832,21 +4847,6 @@
    "avg_last7": 6.88,
    "avg_last15": 5.83,
    "gp_proxy_total": 49.0
-  },
-  {
-   "id": 3133626,
-   "name": "Kenrich Williams",
-   "pos": "SF",
-   "nba_team": "OKC",
-   "slots": [
-    "SF"
-   ],
-   "injury": "ACTIVE",
-   "lineup_slot": "",
-   "avg_fp_espn": 18.23,
-   "avg_last7": 32.17,
-   "avg_last15": 22.12,
-   "gp_proxy_total": 273.5
   },
   {
    "id": 5108024,
