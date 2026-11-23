@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-23T05:17+00:00",
+ "generated_utc": "2026-11-23T06:09+00:00",
  "nba_date": "20261122",
  "errors": [],
  "teams": [
@@ -51,7 +51,7 @@
      "injury": "OUT",
      "lineup_slot": "C",
      "avg_fp_espn": 39.96,
-     "avg_last7": 0.0,
+     "avg_last7": 0,
      "avg_last15": 26.33,
      "gp_proxy_total": 479.5
     },
@@ -67,8 +67,8 @@
      "injury": "OUT",
      "lineup_slot": "IR",
      "avg_fp_espn": 45.75,
-     "avg_last7": 0.0,
-     "avg_last15": 0.0,
+     "avg_last7": 0,
+     "avg_last15": 0,
      "gp_proxy_total": 91.5
     },
     {
@@ -99,8 +99,8 @@
      "injury": "OUT",
      "lineup_slot": "F",
      "avg_fp_espn": 32.88,
-     "avg_last7": 0.0,
-     "avg_last15": 0.0,
+     "avg_last7": 0,
+     "avg_last15": 0,
      "gp_proxy_total": 263.0
     },
     {
@@ -115,8 +115,8 @@
      "injury": "OUT",
      "lineup_slot": "IR",
      "avg_fp_espn": 26.75,
-     "avg_last7": 0.0,
-     "avg_last15": 0.0,
+     "avg_last7": 0,
+     "avg_last15": 0,
      "gp_proxy_total": 107.0
     },
     {
@@ -295,8 +295,8 @@
      "injury": "OUT",
      "lineup_slot": "IR",
      "avg_fp_espn": 41.25,
-     "avg_last7": 0.0,
-     "avg_last15": 0.0,
+     "avg_last7": 0,
+     "avg_last15": 0,
      "gp_proxy_total": 82.5
     },
     {
@@ -327,8 +327,8 @@
      "injury": "OUT",
      "lineup_slot": "IR",
      "avg_fp_espn": 41.33,
-     "avg_last7": 0.0,
-     "avg_last15": 0.0,
+     "avg_last7": 0,
+     "avg_last15": 0,
      "gp_proxy_total": 124.0
     },
     {
@@ -733,8 +733,8 @@
      "injury": "OUT",
      "lineup_slot": "IR",
      "avg_fp_espn": 52.0,
-     "avg_last7": 0.0,
-     "avg_last15": 0.0,
+     "avg_last7": 0,
+     "avg_last15": 0,
      "gp_proxy_total": 208.0
     },
     {
@@ -781,7 +781,7 @@
      "injury": "OUT",
      "lineup_slot": "IR",
      "avg_fp_espn": 39.71,
-     "avg_last7": 0.0,
+     "avg_last7": 0,
      "avg_last15": 53.0,
      "gp_proxy_total": 476.5
     },
@@ -995,8 +995,8 @@
      "injury": "OUT",
      "lineup_slot": "IR",
      "avg_fp_espn": 52.0,
-     "avg_last7": 0.0,
-     "avg_last15": 0.0,
+     "avg_last7": 0,
+     "avg_last15": 0,
      "gp_proxy_total": 208.0
     },
     {
@@ -1234,8 +1234,8 @@
      "injury": "OUT",
      "lineup_slot": "IR",
      "avg_fp_espn": 34.5,
-     "avg_last7": 0.0,
-     "avg_last15": 0.0,
+     "avg_last7": 0,
+     "avg_last15": 0,
      "gp_proxy_total": 69.0
     },
     {
@@ -1407,7 +1407,7 @@
      "injury": "OUT",
      "lineup_slot": "IR",
      "avg_fp_espn": 29.88,
-     "avg_last7": 0.0,
+     "avg_last7": 0,
      "avg_last15": 19.75,
      "gp_proxy_total": 358.5
     },
@@ -1569,8 +1569,8 @@
      "injury": "OUT",
      "lineup_slot": "IR",
      "avg_fp_espn": 34.12,
-     "avg_last7": 0.0,
-     "avg_last15": 0.0,
+     "avg_last7": 0,
+     "avg_last15": 0,
      "gp_proxy_total": 136.5
     },
     {
@@ -1731,7 +1731,7 @@
      "injury": "OUT",
      "lineup_slot": "IR",
      "avg_fp_espn": 44.55,
-     "avg_last7": 0.0,
+     "avg_last7": 0,
      "avg_last15": 34.67,
      "gp_proxy_total": 445.5
     },
@@ -2198,7 +2198,7 @@
      "injury": "OUT",
      "lineup_slot": "SG",
      "avg_fp_espn": 30.94,
-     "avg_last7": 0.0,
+     "avg_last7": 0,
      "avg_last15": 14.0,
      "gp_proxy_total": 278.5
     },
@@ -2214,8 +2214,8 @@
      "injury": "OUT",
      "lineup_slot": "IR",
      "avg_fp_espn": -2.0,
-     "avg_last7": 0.0,
-     "avg_last15": 0.0,
+     "avg_last7": 0,
+     "avg_last15": 0,
      "gp_proxy_total": -2.0
     },
     {
@@ -2260,7 +2260,7 @@
      "injury": "OUT",
      "lineup_slot": "IR",
      "avg_fp_espn": 35.05,
-     "avg_last7": 0.0,
+     "avg_last7": 0,
      "avg_last15": 25.5,
      "gp_proxy_total": 350.5
     },
@@ -2743,8 +2743,8 @@
    "injury": "OUT",
    "lineup_slot": "",
    "avg_fp_espn": 26.33,
-   "avg_last7": 0,
-   "avg_last15": 0,
+   "avg_last7": 0.0,
+   "avg_last15": 0.0,
    "gp_proxy_total": 79.0
   },
   {
@@ -3079,22 +3079,6 @@
    "gp_proxy_total": 346.0
   },
   {
-   "id": 4066372,
-   "name": "Kevin Huerter",
-   "pos": "SG",
-   "nba_team": "DET",
-   "slots": [
-    "SG",
-    "SF"
-   ],
-   "injury": "ACTIVE",
-   "lineup_slot": "",
-   "avg_fp_espn": 22.47,
-   "avg_last7": 16.75,
-   "avg_last15": 28.5,
-   "gp_proxy_total": 359.5
-  },
-  {
    "id": 2991350,
    "name": "Alex Caruso",
    "pos": "SG",
@@ -3109,6 +3093,22 @@
    "avg_last7": 19.5,
    "avg_last15": 17.92,
    "gp_proxy_total": 272.5
+  },
+  {
+   "id": 4066372,
+   "name": "Kevin Huerter",
+   "pos": "SG",
+   "nba_team": "DET",
+   "slots": [
+    "SG",
+    "SF"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 22.47,
+   "avg_last7": 16.75,
+   "avg_last15": 28.5,
+   "gp_proxy_total": 359.5
   },
   {
    "id": 4684272,
@@ -3313,22 +3313,6 @@
    "gp_proxy_total": 310.0
   },
   {
-   "id": 4066436,
-   "name": "De'Anthony Melton",
-   "pos": "PG",
-   "nba_team": "GSW",
-   "slots": [
-    "PG",
-    "SG"
-   ],
-   "injury": "ACTIVE",
-   "lineup_slot": "",
-   "avg_fp_espn": 22.82,
-   "avg_last7": 15.5,
-   "avg_last15": 19.0,
-   "gp_proxy_total": 388.0
-  },
-  {
    "id": 5112087,
    "name": "Jaylen Wells",
    "pos": "SF",
@@ -3343,6 +3327,22 @@
    "avg_last7": 20.5,
    "avg_last15": 21.56,
    "gp_proxy_total": 372.0
+  },
+  {
+   "id": 4066436,
+   "name": "De'Anthony Melton",
+   "pos": "PG",
+   "nba_team": "GSW",
+   "slots": [
+    "PG",
+    "SG"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 22.82,
+   "avg_last7": 15.5,
+   "avg_last15": 19.0,
+   "gp_proxy_total": 388.0
   },
   {
    "id": 4278129,
@@ -3386,8 +3386,8 @@
    "injury": "OUT",
    "lineup_slot": "",
    "avg_fp_espn": 14.8,
-   "avg_last7": 0,
-   "avg_last15": 0,
+   "avg_last7": 0.0,
+   "avg_last15": 0.0,
    "gp_proxy_total": 74.0
   },
   {
@@ -3407,21 +3407,6 @@
    "gp_proxy_total": 337.5
   },
   {
-   "id": 2530530,
-   "name": "T.J. McConnell",
-   "pos": "PG",
-   "nba_team": "IND",
-   "slots": [
-    "PG"
-   ],
-   "injury": "OUT",
-   "lineup_slot": "",
-   "avg_fp_espn": 20.21,
-   "avg_last7": 23.67,
-   "avg_last15": 20.21,
-   "gp_proxy_total": 141.5
-  },
-  {
    "id": 4601025,
    "name": "Pelle Larsson",
    "pos": "SG",
@@ -3436,6 +3421,21 @@
    "avg_last7": 27.5,
    "avg_last15": 28.5,
    "gp_proxy_total": 336.5
+  },
+  {
+   "id": 2530530,
+   "name": "T.J. McConnell",
+   "pos": "PG",
+   "nba_team": "IND",
+   "slots": [
+    "PG"
+   ],
+   "injury": "OUT",
+   "lineup_slot": "",
+   "avg_fp_espn": 20.21,
+   "avg_last7": 23.67,
+   "avg_last15": 20.21,
+   "gp_proxy_total": 141.5
   },
   {
    "id": 6585,
@@ -3468,21 +3468,6 @@
    "gp_proxy_total": 410.0
   },
   {
-   "id": 5023693,
-   "name": "Tyrese Proctor",
-   "pos": "SG",
-   "nba_team": "CLE",
-   "slots": [
-    "SG"
-   ],
-   "injury": "ACTIVE",
-   "lineup_slot": "",
-   "avg_fp_espn": 22.19,
-   "avg_last7": 16.83,
-   "avg_last15": 28.0,
-   "gp_proxy_total": 355.0
-  },
-  {
    "id": 4432847,
    "name": "Terrence Shannon Jr.",
    "pos": "SG",
@@ -3496,6 +3481,21 @@
    "avg_last7": 30.5,
    "avg_last15": 23.07,
    "gp_proxy_total": 303.0
+  },
+  {
+   "id": 5023693,
+   "name": "Tyrese Proctor",
+   "pos": "SG",
+   "nba_team": "CLE",
+   "slots": [
+    "SG"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 22.19,
+   "avg_last7": 16.83,
+   "avg_last15": 28.0,
+   "gp_proxy_total": 355.0
   },
   {
    "id": 4592691,
@@ -3540,8 +3540,8 @@
    "injury": "OUT",
    "lineup_slot": "",
    "avg_fp_espn": 18.83,
-   "avg_last7": 0,
-   "avg_last15": 0,
+   "avg_last7": 0.0,
+   "avg_last15": 0.0,
    "gp_proxy_total": 56.5
   },
   {
@@ -3603,7 +3603,7 @@
    "injury": "OUT",
    "lineup_slot": "",
    "avg_fp_espn": 9.17,
-   "avg_last7": 0,
+   "avg_last7": 0.0,
    "avg_last15": 4.0,
    "gp_proxy_total": 110.0
   },
@@ -3961,8 +3961,8 @@
    "injury": "OUT",
    "lineup_slot": "",
    "avg_fp_espn": 19.44,
-   "avg_last7": 0,
-   "avg_last15": 0,
+   "avg_last7": 0.0,
+   "avg_last15": 0.0,
    "gp_proxy_total": 175.0
   },
   {
@@ -4086,7 +4086,7 @@
    "injury": "ACTIVE",
    "lineup_slot": "",
    "avg_fp_espn": 7.05,
-   "avg_last7": 0,
+   "avg_last7": 0.0,
    "avg_last15": 4.5,
    "gp_proxy_total": 77.5
   },
@@ -4195,7 +4195,7 @@
    "injury": "OUT",
    "lineup_slot": "",
    "avg_fp_espn": 19.5,
-   "avg_last7": 0,
+   "avg_last7": 0.0,
    "avg_last15": 20.33,
    "gp_proxy_total": 156.0
   },
@@ -4448,21 +4448,6 @@
    "gp_proxy_total": 217.0
   },
   {
-   "id": 3150844,
-   "name": "Moritz Wagner",
-   "pos": "C",
-   "nba_team": "BKN",
-   "slots": [
-    "C"
-   ],
-   "injury": "ACTIVE",
-   "lineup_slot": "",
-   "avg_fp_espn": 20.07,
-   "avg_last7": 16.5,
-   "avg_last15": 21.0,
-   "gp_proxy_total": 301.0
-  },
-  {
    "id": 4432823,
    "name": "Jaylin Williams",
    "pos": "C",
@@ -4477,6 +4462,21 @@
    "avg_last7": 4.5,
    "avg_last15": 4.5,
    "gp_proxy_total": 74.0
+  },
+  {
+   "id": 3150844,
+   "name": "Moritz Wagner",
+   "pos": "C",
+   "nba_team": "BKN",
+   "slots": [
+    "C"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 20.07,
+   "avg_last7": 16.5,
+   "avg_last15": 21.0,
+   "gp_proxy_total": 301.0
   },
   {
    "id": 2583632,
@@ -4511,6 +4511,21 @@
    "gp_proxy_total": 234.0
   },
   {
+   "id": 5241364,
+   "name": "Bennett Stirtz",
+   "pos": "PG",
+   "nba_team": "OKC",
+   "slots": [
+    "PG"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 16.94,
+   "avg_last7": 24.5,
+   "avg_last15": 20.81,
+   "gp_proxy_total": 288.0
+  },
+  {
    "id": 3912848,
    "name": "Dean Wade",
    "pos": "PF",
@@ -4541,19 +4556,20 @@
    "gp_proxy_total": 0.0
   },
   {
-   "id": 5241364,
-   "name": "Bennett Stirtz",
-   "pos": "PG",
-   "nba_team": "OKC",
+   "id": 2990992,
+   "name": "Marcus Smart",
+   "pos": "SG",
+   "nba_team": "HOU",
    "slots": [
-    "PG"
+    "PG",
+    "SG"
    ],
    "injury": "ACTIVE",
    "lineup_slot": "",
-   "avg_fp_espn": 16.94,
-   "avg_last7": 24.5,
-   "avg_last15": 20.81,
-   "gp_proxy_total": 288.0
+   "avg_fp_espn": 16.5,
+   "avg_last7": 15.0,
+   "avg_last15": 10.5,
+   "gp_proxy_total": 181.5
   },
   {
    "id": 3213,
@@ -4572,22 +4588,6 @@
    "gp_proxy_total": 215.5
   },
   {
-   "id": 2990992,
-   "name": "Marcus Smart",
-   "pos": "SG",
-   "nba_team": "HOU",
-   "slots": [
-    "PG",
-    "SG"
-   ],
-   "injury": "ACTIVE",
-   "lineup_slot": "",
-   "avg_fp_espn": 16.5,
-   "avg_last7": 15.0,
-   "avg_last15": 10.5,
-   "gp_proxy_total": 181.5
-  },
-  {
    "id": 5105550,
    "name": "GG Jackson",
    "pos": "PF",
@@ -4598,7 +4598,7 @@
    "injury": "OUT",
    "lineup_slot": "",
    "avg_fp_espn": 12.75,
-   "avg_last7": 0,
+   "avg_last7": 0.0,
    "avg_last15": 14.5,
    "gp_proxy_total": 153.0
   },
@@ -4664,6 +4664,21 @@
    "gp_proxy_total": 274.0
   },
   {
+   "id": 3133602,
+   "name": "Svi Mykhailiuk",
+   "pos": "SG",
+   "nba_team": "UTA",
+   "slots": [
+    "SG"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 14.31,
+   "avg_last7": 31.4,
+   "avg_last15": 19.89,
+   "gp_proxy_total": 257.5
+  },
+  {
    "id": 4395702,
    "name": "Isaiah Joe",
    "pos": "SG",
@@ -4692,21 +4707,6 @@
    "avg_last7": 12.1,
    "avg_last15": 10.08,
    "gp_proxy_total": 89.5
-  },
-  {
-   "id": 3133602,
-   "name": "Svi Mykhailiuk",
-   "pos": "SG",
-   "nba_team": "UTA",
-   "slots": [
-    "SG"
-   ],
-   "injury": "ACTIVE",
-   "lineup_slot": "",
-   "avg_fp_espn": 14.31,
-   "avg_last7": 31.4,
-   "avg_last15": 19.89,
-   "gp_proxy_total": 257.5
   },
   {
    "id": 3913174,
@@ -4765,7 +4765,7 @@
    "injury": "OUT",
    "lineup_slot": "",
    "avg_fp_espn": 19.15,
-   "avg_last7": 0,
+   "avg_last7": 0.0,
    "avg_last15": 10.5,
    "gp_proxy_total": 191.5
   },
@@ -4811,8 +4811,8 @@
    "injury": "OUT",
    "lineup_slot": "",
    "avg_fp_espn": 25.0,
-   "avg_last7": 0,
-   "avg_last15": 0,
+   "avg_last7": 0.0,
+   "avg_last15": 0.0,
    "gp_proxy_total": 100.0
   },
   {
@@ -4847,6 +4847,21 @@
    "gp_proxy_total": 51.0
   },
   {
+   "id": 5108024,
+   "name": "Yanic Konan Niederhauser",
+   "pos": "C",
+   "nba_team": "LAC",
+   "slots": [
+    "C"
+   ],
+   "injury": "ACTIVE",
+   "lineup_slot": "",
+   "avg_fp_espn": 18.0,
+   "avg_last7": 18.0,
+   "avg_last15": 18.0,
+   "gp_proxy_total": 36.0
+  },
+  {
    "id": 4702177,
    "name": "Keon Ellis",
    "pos": "SG",
@@ -4876,21 +4891,6 @@
    "avg_last7": 9.25,
    "avg_last15": 14.94,
    "gp_proxy_total": 237.0
-  },
-  {
-   "id": 5108024,
-   "name": "Yanic Konan Niederhauser",
-   "pos": "C",
-   "nba_team": "LAC",
-   "slots": [
-    "C"
-   ],
-   "injury": "ACTIVE",
-   "lineup_slot": "",
-   "avg_fp_espn": 18.0,
-   "avg_last7": 18.0,
-   "avg_last15": 18.0,
-   "gp_proxy_total": 36.0
   },
   {
    "id": 5107157,
