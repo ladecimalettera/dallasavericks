@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-24T05:35+00:00",
+ "generated_utc": "2026-11-24T06:04+00:00",
  "nba_date": "20261123",
  "errors": [],
  "teams": [
@@ -51,7 +51,7 @@
      "injury": "OUT",
      "lineup_slot": "UT",
      "avg_fp_espn": 39.96,
-     "avg_last7": 0,
+     "avg_last7": 0.0,
      "avg_last15": 25.25,
      "gp_proxy_total": 479.5
     },
@@ -67,8 +67,8 @@
      "injury": "OUT",
      "lineup_slot": "IR",
      "avg_fp_espn": 45.75,
-     "avg_last7": 0,
-     "avg_last15": 0,
+     "avg_last7": 0.0,
+     "avg_last15": 0.0,
      "gp_proxy_total": 91.5
     },
     {
@@ -99,8 +99,8 @@
      "injury": "OUT",
      "lineup_slot": "BE",
      "avg_fp_espn": 32.88,
-     "avg_last7": 0,
-     "avg_last15": 0,
+     "avg_last7": 0.0,
+     "avg_last15": 0.0,
      "gp_proxy_total": 263.0
     },
     {
@@ -115,8 +115,8 @@
      "injury": "OUT",
      "lineup_slot": "IR",
      "avg_fp_espn": 26.75,
-     "avg_last7": 0,
-     "avg_last15": 0,
+     "avg_last7": 0.0,
+     "avg_last15": 0.0,
      "gp_proxy_total": 107.0
     },
     {
@@ -295,8 +295,8 @@
      "injury": "OUT",
      "lineup_slot": "IR",
      "avg_fp_espn": 41.25,
-     "avg_last7": 0,
-     "avg_last15": 0,
+     "avg_last7": 0.0,
+     "avg_last15": 0.0,
      "gp_proxy_total": 82.5
     },
     {
@@ -327,8 +327,8 @@
      "injury": "OUT",
      "lineup_slot": "IR",
      "avg_fp_espn": 41.33,
-     "avg_last7": 0,
-     "avg_last15": 0,
+     "avg_last7": 0.0,
+     "avg_last15": 0.0,
      "gp_proxy_total": 124.0
     },
     {
@@ -733,8 +733,8 @@
      "injury": "OUT",
      "lineup_slot": "IR",
      "avg_fp_espn": 52.0,
-     "avg_last7": 0,
-     "avg_last15": 0,
+     "avg_last7": 0.0,
+     "avg_last15": 0.0,
      "gp_proxy_total": 208.0
     },
     {
@@ -781,7 +781,7 @@
      "injury": "OUT",
      "lineup_slot": "IR",
      "avg_fp_espn": 39.71,
-     "avg_last7": 0,
+     "avg_last7": 0.0,
      "avg_last15": 53.0,
      "gp_proxy_total": 476.5
     },
@@ -892,7 +892,7 @@
      "injury": "OUT",
      "lineup_slot": "BE",
      "avg_fp_espn": 29.07,
-     "avg_last7": 0,
+     "avg_last7": 0.0,
      "avg_last15": 40.17,
      "gp_proxy_total": 407.0
     },
@@ -995,8 +995,8 @@
      "injury": "OUT",
      "lineup_slot": "IR",
      "avg_fp_espn": 52.0,
-     "avg_last7": 0,
-     "avg_last15": 0,
+     "avg_last7": 0.0,
+     "avg_last15": 0.0,
      "gp_proxy_total": 208.0
     },
     {
@@ -1250,8 +1250,8 @@
      "injury": "OUT",
      "lineup_slot": "IR",
      "avg_fp_espn": 34.5,
-     "avg_last7": 0,
-     "avg_last15": 0,
+     "avg_last7": 0.0,
+     "avg_last15": 0.0,
      "gp_proxy_total": 69.0
     },
     {
@@ -1423,7 +1423,7 @@
      "injury": "OUT",
      "lineup_slot": "IR",
      "avg_fp_espn": 29.88,
-     "avg_last7": 0,
+     "avg_last7": 0.0,
      "avg_last15": 19.75,
      "gp_proxy_total": 358.5
     },
@@ -1585,8 +1585,8 @@
      "injury": "OUT",
      "lineup_slot": "IR",
      "avg_fp_espn": 34.12,
-     "avg_last7": 0,
-     "avg_last15": 0,
+     "avg_last7": 0.0,
+     "avg_last15": 0.0,
      "gp_proxy_total": 136.5
     },
     {
@@ -1747,7 +1747,7 @@
      "injury": "OUT",
      "lineup_slot": "IR",
      "avg_fp_espn": 44.55,
-     "avg_last7": 0,
+     "avg_last7": 0.0,
      "avg_last15": 19.5,
      "gp_proxy_total": 445.5
     },
@@ -2214,7 +2214,7 @@
      "injury": "OUT",
      "lineup_slot": "BE",
      "avg_fp_espn": 30.94,
-     "avg_last7": 0,
+     "avg_last7": 0.0,
      "avg_last15": 14.0,
      "gp_proxy_total": 278.5
     },
@@ -2230,8 +2230,8 @@
      "injury": "OUT",
      "lineup_slot": "IR",
      "avg_fp_espn": -2.0,
-     "avg_last7": 0,
-     "avg_last15": 0,
+     "avg_last7": 0.0,
+     "avg_last15": 0.0,
      "gp_proxy_total": -2.0
     },
     {
@@ -2276,7 +2276,7 @@
      "injury": "OUT",
      "lineup_slot": "IR",
      "avg_fp_espn": 35.05,
-     "avg_last7": 0,
+     "avg_last7": 0.0,
      "avg_last15": 25.5,
      "gp_proxy_total": 350.5
     },
@@ -2727,8 +2727,8 @@
    "injury": "OUT",
    "lineup_slot": "",
    "avg_fp_espn": 26.33,
-   "avg_last7": 0,
-   "avg_last15": 0,
+   "avg_last7": 0.0,
+   "avg_last15": 0.0,
    "gp_proxy_total": 79.0
   },
   {
@@ -2964,7 +2964,7 @@
    "injury": "OUT",
    "lineup_slot": "",
    "avg_fp_espn": 27.19,
-   "avg_last7": 0,
+   "avg_last7": 0.0,
    "avg_last15": 36.67,
    "gp_proxy_total": 353.5
   },
@@ -3386,8 +3386,8 @@
    "injury": "OUT",
    "lineup_slot": "",
    "avg_fp_espn": 14.8,
-   "avg_last7": 0,
-   "avg_last15": 0,
+   "avg_last7": 0.0,
+   "avg_last15": 0.0,
    "gp_proxy_total": 74.0
   },
   {
@@ -3525,8 +3525,8 @@
    "injury": "OUT",
    "lineup_slot": "",
    "avg_fp_espn": 18.83,
-   "avg_last7": 0,
-   "avg_last15": 0,
+   "avg_last7": 0.0,
+   "avg_last15": 0.0,
    "gp_proxy_total": 56.5
   },
   {
@@ -3588,7 +3588,7 @@
    "injury": "OUT",
    "lineup_slot": "",
    "avg_fp_espn": 9.17,
-   "avg_last7": 0,
+   "avg_last7": 0.0,
    "avg_last15": 4.0,
    "gp_proxy_total": 110.0
   },
@@ -3977,8 +3977,8 @@
    "injury": "OUT",
    "lineup_slot": "",
    "avg_fp_espn": 19.44,
-   "avg_last7": 0,
-   "avg_last15": 0,
+   "avg_last7": 0.0,
+   "avg_last15": 0.0,
    "gp_proxy_total": 175.0
   },
   {
@@ -4117,7 +4117,7 @@
    "injury": "ACTIVE",
    "lineup_slot": "",
    "avg_fp_espn": 7.05,
-   "avg_last7": 0,
+   "avg_last7": 0.0,
    "avg_last15": 4.5,
    "gp_proxy_total": 77.5
   },
@@ -4658,7 +4658,7 @@
    "injury": "OUT",
    "lineup_slot": "",
    "avg_fp_espn": 12.75,
-   "avg_last7": 0,
+   "avg_last7": 0.0,
    "avg_last15": 14.5,
    "gp_proxy_total": 153.0
   },
@@ -4749,7 +4749,7 @@
    "injury": "OUT",
    "lineup_slot": "",
    "avg_fp_espn": 19.15,
-   "avg_last7": 0,
+   "avg_last7": 0.0,
    "avg_last15": 5.0,
    "gp_proxy_total": 191.5
   },
@@ -4795,8 +4795,8 @@
    "injury": "OUT",
    "lineup_slot": "",
    "avg_fp_espn": 25.0,
-   "avg_last7": 0,
-   "avg_last15": 0,
+   "avg_last7": 0.0,
+   "avg_last15": 0.0,
    "gp_proxy_total": 100.0
   },
   {
