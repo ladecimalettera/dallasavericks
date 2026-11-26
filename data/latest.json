@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-26T05:43+00:00",
+ "generated_utc": "2026-11-26T06:04+00:00",
  "nba_date": "20261125",
  "errors": [],
  "teams": [
@@ -1700,10 +1700,10 @@
      ],
      "injury": "ACTIVE",
      "lineup_slot": "UT",
-     "avg_fp_espn": 71.64,
-     "avg_last7": 85.67,
-     "avg_last15": 73.14,
-     "gp_proxy_total": 1289.5
+     "avg_fp_espn": 71.58,
+     "avg_last7": 85.33,
+     "avg_last15": 73.0,
+     "gp_proxy_total": 1288.5
     },
     {
      "id": 4684740,
@@ -2033,7 +2033,7 @@
       "PG",
       "SG"
      ],
-     "injury": "OUT",
+     "injury": "DAY_TO_DAY",
      "lineup_slot": "BE",
      "avg_fp_espn": 29.5,
      "avg_last7": 18.75,
@@ -2260,10 +2260,10 @@
      ],
      "injury": "ACTIVE",
      "lineup_slot": "BE",
-     "avg_fp_espn": 31.53,
-     "avg_last7": 34.62,
-     "avg_last15": 32.28,
-     "gp_proxy_total": 567.5
+     "avg_fp_espn": 31.64,
+     "avg_last7": 35.12,
+     "avg_last15": 32.5,
+     "gp_proxy_total": 569.5
     },
     {
      "id": 5095151,
@@ -3587,7 +3587,7 @@
    "injury": "OUT",
    "lineup_slot": "",
    "avg_fp_espn": 9.17,
-   "avg_last7": 0.0,
+   "avg_last7": 0,
    "avg_last15": -3.0,
    "gp_proxy_total": 110.0
   },
@@ -4117,7 +4117,7 @@
    "injury": "ACTIVE",
    "lineup_slot": "",
    "avg_fp_espn": 7.05,
-   "avg_last7": 0.0,
+   "avg_last7": 0,
    "avg_last15": 14.0,
    "gp_proxy_total": 77.5
   },
@@ -4827,8 +4827,8 @@
    "injury": "OUT",
    "lineup_slot": "",
    "avg_fp_espn": 25.0,
-   "avg_last7": 0.0,
-   "avg_last15": 0.0,
+   "avg_last7": 0,
+   "avg_last15": 0,
    "gp_proxy_total": 100.0
   },
   {
@@ -5008,14 +5008,14 @@
    "3PM": 3,
    "FTM": 7,
    "FTA": 10,
-   "REB": 17,
+   "REB": 16,
    "OREB": 2,
    "AST": 3,
    "STL": 1,
    "BLK": 2,
    "TO": 3,
    "PF": 1,
-   "FP": 80.0,
+   "FP": 79.0,
    "fantasy_owner": "Alberto's Tanking Team"
   },
   {
@@ -5341,6 +5341,29 @@
    "fantasy_owner": "Alberto's Tanking Team"
   },
   {
+   "id": 6606,
+   "name": "Damian Lillard",
+   "nba_team": "POR",
+   "starter": true,
+   "game_final": true,
+   "MIN": 34,
+   "PTS": 29,
+   "FGM": 7,
+   "FGA": 20,
+   "3PM": 5,
+   "FTM": 10,
+   "FTA": 10,
+   "REB": 3,
+   "OREB": 0,
+   "AST": 7,
+   "STL": 2,
+   "BLK": 0,
+   "TO": 2,
+   "PF": 0,
+   "FP": 49.0,
+   "fantasy_owner": "Philly Rules"
+  },
+  {
    "id": 4278073,
    "name": "Shai Gilgeous-Alexander",
    "nba_team": "OKC",
@@ -5362,29 +5385,6 @@
    "PF": 0,
    "FP": 48.0,
    "fantasy_owner": "Roma Caput Mundi"
-  },
-  {
-   "id": 6606,
-   "name": "Damian Lillard",
-   "nba_team": "POR",
-   "starter": true,
-   "game_final": true,
-   "MIN": 34,
-   "PTS": 29,
-   "FGM": 7,
-   "FGA": 20,
-   "3PM": 5,
-   "FTM": 10,
-   "FTA": 10,
-   "REB": 3,
-   "OREB": 0,
-   "AST": 6,
-   "STL": 2,
-   "BLK": 0,
-   "TO": 2,
-   "PF": 0,
-   "FP": 47.0,
-   "fantasy_owner": "Philly Rules"
   },
   {
    "id": 4431678,
